@@ -1,9 +1,6 @@
-{
-  //SSC CGL
-  "ssc_cgl": {
-      //SSC CGL Tier-I FREE TEST
-    "tier1": {
-      
+{ 
+  "ssc_cgl": {    
+    "tier1": {    
       "free_tests": [
         {
           "id": "tier1_test_1",
@@ -53,8 +50,6 @@
       ]
     },
 
-     //SSC CGL TIER-II FREE TEST
-    
     "tier2": {
       "free_tests": [
         {
@@ -88,6 +83,6 @@
     }
     
   }
-//SSC CHSL
+
   
 }
