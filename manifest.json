@@ -38,6 +38,18 @@
           "version": 1,
           "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_4.csv"
         }
+      {
+  "id": "tier1_test_5",
+  "title": "SSC CGL Tier-I Free Test 5",
+  "questions": 100,
+  "time": 60,
+  "marks": 200,
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_5.csv"
+    }
+
+
+        
       ]
     },
     "tier2": {
