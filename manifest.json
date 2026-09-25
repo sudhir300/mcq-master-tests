@@ -81,5 +81,39 @@
         }
       ]
     }
+
+"full_test": {
+  "tier1": [
+    {
+      "id": "full_tier1_test_1",
+      "title": "SSC CGL Tier-I Full Test 1",
+      "questions": 100,
+      "time": 60,
+      "marks": 200,
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier1/ssc_cgl_tier1_full_test_1.csv"
+    },
+    {
+      "id": "full_tier1_test_2",
+      "title": "SSC CGL Tier-I Full Test 2",
+      "questions": 100,
+      "time": 60,
+      "marks": 200,
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier1/ssc_cgl_tier1_full_test_2.csv"
+    }
+  ],
+  "tier2": [
+    {
+      "id": "full_tier2_test_1",
+      "title": "SSC CGL Tier-II Full Test 1",
+      "questions": 150,
+      "time": 150,
+      "marks": 450,
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier2/ssc_cgl_tier2_full_test_1.csv"
+    }
+  ]
+} 
   }
 }
