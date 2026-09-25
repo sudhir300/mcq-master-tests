@@ -10,7 +10,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_1.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/tier1/ssc_cgl_free_tier1_test_1.csv"
         },
         {
           "id": "tier1_test_2",
@@ -19,7 +19,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_2.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/tier1/ssc_cgl_free_tier1_test_2.csv"
         },
         {
           "id": "tier1_test_3",
@@ -28,7 +28,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_3.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/tier1/ssc_cgl_free_tier1_test_3.csv"
         },
         {
           "id": "tier1_test_4",
@@ -37,7 +37,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_4.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/tier1/ssc_cgl_free_tier1_test_4.csv"
         },
         {
           "id": "tier1_test_5",
@@ -46,7 +46,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_5.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/tier1/ssc_cgl_free_tier1_test_5.csv"
         }
       ],
       "tier2": [
@@ -57,7 +57,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_1.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/tier2/ssc_cgl_free_tier2_test_1.csv"
         },
         {
           "id": "tier2_test_2",
@@ -66,7 +66,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_2.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/tier2/ssc_cgl_free_tier2_test_2.csv"
         },
         {
           "id": "tier2_test_3",
@@ -75,7 +75,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/ssc_cgl_free_test_3.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/free/tier2/ssc_cgl_free_tier2_test_3.csv"
         }
       ]
     },
@@ -89,7 +89,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier1/ssc_cgl_tier1_full_test_1.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier1/ssc_cgl_full_tier1_test_1.csv"
         },
         {
           "id": "full_tier1_test_2",
@@ -98,7 +98,7 @@
           "time": 60,
           "marks": 200,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier1/ssc_cgl_tier1_full_test_2.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier1/ssc_cgl_full_tier1_test_2.csv"
         }
       ],
 
@@ -110,7 +110,7 @@
           "time": 150,
           "marks": 450,
           "version": 1,
-          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier2/ssc_cgl_tier2_full_test_1.csv"
+          "url": "https://raw.githubusercontent.com/sudhir300/mcq-master-tests/main/ssc/cgl/full/tier2/ssc_cgl_full_tier2_test_1.csv"
         }
       ]
     }
