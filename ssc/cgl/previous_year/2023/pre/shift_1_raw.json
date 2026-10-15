@@ -1,0 +1,3802 @@
+[
+  {
+    "global_index": 1,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 1,
+    "question": "",
+    "question_image": "images/q1_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q1_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q1_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q1_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q1_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "26433089778",
+    "status": "Answered",
+    "source_page": 4
+  },
+  {
+    "global_index": 2,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 2,
+    "question": "Select the option that represents the correct order of the given words as they wo\nappear in an English dictionary.\n1. Warriors\n2. Warehouse\n3. Warcraft\n4. Warranty\n5. Wardrobe\n6. Wardenship",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "3, 6, 5, 2, 1, 4",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "3, 5, 6, 2, 1, 4",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "3, 5, 6, 2, 4, 1",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "3, 6, 5, 2, 4, 1",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330132163",
+    "status": "Answered",
+    "source_page": 5
+  },
+  {
+    "global_index": 3,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 3,
+    "question": "Three statements are given, followed by four conclusions numbered I, II, III and I\nAssuming the statements to be true, even if they seem to be at variance with\ncommonly known facts, decide which of the conclusions logically follow(s) from\nstatements.\nStatements:\nSome desks are trays.\nSome trays are plates.\nSome plates are desks.\nConclusions:\nI. All desks are plates.\nII. All plates are desks.\nIII. Some plates are trays.\nIV. All trays are desks.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Only conclusion III follows",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Only conclusion IV follows",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Only conclusion II follows",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Only conclusion I follows",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433085684",
+    "status": "Answered",
+    "source_page": 5
+  },
+  {
+    "global_index": 4,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 4,
+    "question": "Select the option that is related to the third word in the same way as the second \nis related to the first word.\n(The words must be considered as meaningful English words and must not be re\nto each other based on the number of letters/number of consonants/vowels in th\nword.)\nSkin : Touch :: Nose : ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Smell",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Taste",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Nose ring",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Sweat",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433087263",
+    "status": "Answered",
+    "source_page": 5
+  },
+  {
+    "global_index": 5,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 5,
+    "question": "Ganesh was taking a walk with his mother’s brother’s father’s granddaughter. W\nwas he walking with?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Daughter",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Mother",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Cousin",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Granddaughter",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "1",
+    "question_id": "264330118669",
+    "status": "Answered",
+    "source_page": 6
+  },
+  {
+    "global_index": 6,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 6,
+    "question": "",
+    "question_image": "images/q6_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q6_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q6_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q6_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q6_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "2",
+    "question_id": "26433091689",
+    "status": "Answered",
+    "source_page": 6
+  },
+  {
+    "global_index": 7,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 7,
+    "question": "Which of the following letter-clusters will replace the question mark (?) in the giv\nseries?\nUV, OY, IB, EE, ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "ZK",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "AH",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "BI",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "BH",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "26433057186",
+    "status": "Answered",
+    "source_page": 6
+  },
+  {
+    "global_index": 8,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 8,
+    "question": "The second number in the given number-pairs is obtained by performing certain\nmathematical operation(s) on the first number. The same operation(s) is/are follo\nin all the number-pairs except one. Find that odd number-pair.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "20 : 11",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "6 : 4",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "15 : 9",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "12 : 7",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "--",
+    "question_id": "264330143704",
+    "status": "Not Answered",
+    "source_page": 6
+  },
+  {
+    "global_index": 9,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 9,
+    "question": "",
+    "question_image": "images/q9_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q9_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q9_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q9_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q9_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "2",
+    "question_id": "264330143831",
+    "status": "Answered",
+    "source_page": 8
+  },
+  {
+    "global_index": 10,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 10,
+    "question": "Three different positions of the same dice are shown. Find the number on the fac\nopposite the face showing ‘1’.",
+    "question_image": "images/q10_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "6",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "2",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "3",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "4",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "26433069064",
+    "status": "Answered",
+    "source_page": 8
+  },
+  {
+    "global_index": 11,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 11,
+    "question": "Select the set in which the numbers are related in the same way as are the numb\nthe following sets.\n(55, 11, 25)\n(64,16, 16)\n(NOTE : Operations should be performed on the whole numbers, without breakin\ndown the numbers into its constituent digits. E.g. 13 – Operations on 13 such as\nadding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 i\nand 3 and then performing mathematical operations on 1 and 3 is NOT allowed)",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "(33, 11, 9)",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "(33, 11, 22)",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "(33, 11, 3)",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "(33, 11, 10)",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433087188",
+    "status": "Answered",
+    "source_page": 9
+  },
+  {
+    "global_index": 12,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 12,
+    "question": "Select the option that is related to the sixth letter-cluster in the same way as the \nletter-cluster is related to the second letter-cluster and the third letter-cluster is r\nto the fourth letter-cluster.\nHMD : KOE : : BNQ : EPR :: ? : FLV",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "SJE",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "UJC",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "EJS",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "CJU",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330102977",
+    "status": "Answered",
+    "source_page": 9
+  },
+  {
+    "global_index": 13,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 13,
+    "question": "",
+    "question_image": "images/q13_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q13_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q13_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q13_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q13_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "2",
+    "question_id": "26433085797",
+    "status": "Answered",
+    "source_page": 10
+  },
+  {
+    "global_index": 14,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 14,
+    "question": "Select the Venn diagram that best illustrates the relationship between the followi\nclasses.\nTicket, Aeroplane, Rail",
+    "question_image": "images/q14_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q14_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q14_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q14_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q14_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330145436",
+    "status": "Answered",
+    "source_page": 11
+  },
+  {
+    "global_index": 15,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 15,
+    "question": "Four letter-clusters have been given, out of which three are alike in some manne\none is different. Select the odd letter-cluster.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "BFJN",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "DHLP",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "HJKP",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "JNRV",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "264330143768",
+    "status": "Answered",
+    "source_page": 11
+  },
+  {
+    "global_index": 16,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 16,
+    "question": "Select the option that is related to the fifth number in the same way as the secon\nnumber is related to the first number and the fourth number is related to the third\nnumber.\n5 : 45::3 : 3::6 : ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "90",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "106",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "110",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "96",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330143716",
+    "status": "Answered",
+    "source_page": 11
+  },
+  {
+    "global_index": 17,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 17,
+    "question": "Which of the following numbers will replace the question mark (?) in the given se\n8, 15, 26, ? , 56, 75",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "39",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "41",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "35",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "43",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "2",
+    "question_id": "26433085705",
+    "status": "Answered",
+    "source_page": 12
+  },
+  {
+    "global_index": 18,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 18,
+    "question": "Select the option that is related to the third term in the same way as the second t\nrelated to the first term and the sixth term is related to the fifth term.\n7183 : 3850 :: 6957 : ? :: 8972 : 5639",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "3426",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "3624",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "3246",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "3642",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "--",
+    "question_id": "26433078953",
+    "status": "Not Answered",
+    "source_page": 12
+  },
+  {
+    "global_index": 19,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 19,
+    "question": "",
+    "question_image": "images/q19_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "5",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "6",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "2",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "3",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "26433069066",
+    "status": "Answered",
+    "source_page": 12
+  },
+  {
+    "global_index": 20,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 20,
+    "question": "Select the option that is related to the fifth number in the same way as the secon\nnumber is related to the first number and the fourth number is related to the third\nnumber.\n625 : 5 :: 2560 : 8 :: 5000 : ?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "9",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "12",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "10",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "15",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "26433085828",
+    "status": "Answered",
+    "source_page": 12
+  },
+  {
+    "global_index": 21,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 21,
+    "question": "In a certain code language, ‘ASK’ is written as ‘62’ and ‘BYE’ is written as ‘64’. Ho\n‘CRY’ be written in that language?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "68",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "72",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "86",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "92",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "26433082572",
+    "status": "Answered",
+    "source_page": 13
+  },
+  {
+    "global_index": 22,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 22,
+    "question": "Select the correct combination of mathematical signs that can sequentially repla\n* signs and balance the given equation.\n256 * 4 * 9 * 3 * 14 = 51",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "× + − ÷",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "÷ × − +",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "× ÷ + −",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "÷ − × +",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330122474",
+    "status": "Answered",
+    "source_page": 13
+  },
+  {
+    "global_index": 23,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 23,
+    "question": "Select the option that represents the letters that, when placed from left to right in\nfollowing blanks, will complete the letter-series.\nC L _ V E C _ _ W E C L O _ _ C _ O _ E",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "O L P X E L Y",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "O L O Y E L Z",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "O L O X F M Y",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "O L O X E L Y",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330143756",
+    "status": "Answered",
+    "source_page": 13
+  },
+  {
+    "global_index": 24,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 24,
+    "question": "In a certain code language, ‘TABLE’ is coded as ELEAT and ‘SWING’ is coded as\nGNLWS. How will ‘FRAME’ be coded in the same language?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "EMERF",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "EMDRF",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "ERMDF",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "MEDFR",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330129761",
+    "status": "Answered",
+    "source_page": 13
+  },
+  {
+    "global_index": 25,
+    "section": "General Intelligence and Reasoning",
+    "question_number": 25,
+    "question": "Which two signs should be interchanged to make the given equation correct?\n588 ÷ 28 × 32 + 72 – 160 = 760",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "– and +",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "÷ and –",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "+ and ×",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "÷ and +",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330132505",
+    "status": "Answered",
+    "source_page": 13
+  },
+  {
+    "global_index": 26,
+    "section": "General Awareness",
+    "question_number": 1,
+    "question": "The length of the badminton court for singles is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "13.44 m",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "13.55 m",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "14 m",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "13.40 m",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "--",
+    "question_id": "264330112520",
+    "status": "Not Answered",
+    "source_page": 14
+  },
+  {
+    "global_index": 27,
+    "section": "General Awareness",
+    "question_number": 2,
+    "question": "Who is the Administrative Head of the Indian Audit and Accounts Department?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Accountant General",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Principal Accountant General",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Director General",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "The Comptroller and Auditor General",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330112788",
+    "status": "Answered",
+    "source_page": 14
+  },
+  {
+    "global_index": 28,
+    "section": "General Awareness",
+    "question_number": 3,
+    "question": "Which of the following is the largest pan-India scheme to strengthen health care\ninfrastructure across the country with focus on primary, secondary and tertiary c\nservices?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "LaQshya",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "AB-PMJAY",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "PM-ABHIM",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "PM-MI",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "--",
+    "question_id": "264330111307",
+    "status": "Not Answered",
+    "source_page": 14
+  },
+  {
+    "global_index": 29,
+    "section": "General Awareness",
+    "question_number": 4,
+    "question": "Which of the following festivals is associated with the term ‘ties of protection’?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Baisakhi",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Karwa Chauth",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Chhath Pooja",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Raksha Bandhan",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330111151",
+    "status": "Answered",
+    "source_page": 14
+  },
+  {
+    "global_index": 30,
+    "section": "General Awareness",
+    "question_number": 5,
+    "question": "In October 2021, 19-year-old ________ won the silver medal at the World Wrestlin\nChampionship.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Anshu Malik",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Seema Bisla",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Sanju Devi",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Sonam Malik",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433086892",
+    "status": "Answered",
+    "source_page": 14
+  },
+  {
+    "global_index": 31,
+    "section": "General Awareness",
+    "question_number": 6,
+    "question": "________ emerged as the poorest state as per the first-ever Multi-dimensional Po\nIndex (MPI) prepared by Niti Aayog and launched in November 2021.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Bihar",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Madhya Pradesh",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Uttar Pradesh",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Mizoram",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433081875",
+    "status": "Answered",
+    "source_page": 15
+  },
+  {
+    "global_index": 32,
+    "section": "General Awareness",
+    "question_number": 7,
+    "question": "The consumption of fixed capital is also known as _________.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "depreciation",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "net investment",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "appreciation",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "gross investment",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330109372",
+    "status": "Answered",
+    "source_page": 15
+  },
+  {
+    "global_index": 33,
+    "section": "General Awareness",
+    "question_number": 8,
+    "question": "The Vedic Aryans lived in the area called Sapt-Sindhu, which means area drained\nseven rivers. One of the rivers among the seven is Jhelum. What was its ancient\nname?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Askini",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Parushni",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Vipash",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Vitasta",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330114803",
+    "status": "Answered",
+    "source_page": 15
+  },
+  {
+    "global_index": 34,
+    "section": "General Awareness",
+    "question_number": 9,
+    "question": "In Chola administration, ________ was the assembly in the villages which were\ninhabited predominantly by the Brahmanas.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Ur",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Khilya",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Nagaram",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Sabha",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "1",
+    "question_id": "264330114075",
+    "status": "Answered",
+    "source_page": 15
+  },
+  {
+    "global_index": 35,
+    "section": "General Awareness",
+    "question_number": 10,
+    "question": "Which of the following states is NOT a part of the Tapi Basin?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Rajasthan",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Maharashtra",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Madhya Pradesh",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Gujarat",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "--",
+    "question_id": "264330113288",
+    "status": "Not Answered",
+    "source_page": 15
+  },
+  {
+    "global_index": 36,
+    "section": "General Awareness",
+    "question_number": 11,
+    "question": "Which of the following is used as a cooling medium for the Large Hadron Collide\n(LHC) and the superconducting magnets in MRI scanners and NMR spectromete",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Neon",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Chlorine",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Argon",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Helium",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "--",
+    "question_id": "264330109906",
+    "status": "Not Answered",
+    "source_page": 16
+  },
+  {
+    "global_index": 37,
+    "section": "General Awareness",
+    "question_number": 12,
+    "question": "In 2018, Google Doodle celebrated the 100th birthday of Mrinalini Sarabhai. She i\nexponent of which of the following dance forms?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Bharatanatyam and Kathakali",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Odissi and Kathak",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Kuchipudi and Bharatanatyam",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Yakshagana",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "3",
+    "question_id": "26433064791",
+    "status": "Answered",
+    "source_page": 16
+  },
+  {
+    "global_index": 38,
+    "section": "General Awareness",
+    "question_number": 13,
+    "question": "Bharatanatyam expresses South Indian religious themes and spiritual ideas of\n_______.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Sufism",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Shaivism",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Buddhism",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Jainism",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330109264",
+    "status": "Answered",
+    "source_page": 16
+  },
+  {
+    "global_index": 39,
+    "section": "General Awareness",
+    "question_number": 14,
+    "question": "Who among the following musicians is popular for his mastery over the musical\ninstrument Sitar?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Ali Akbar Khan",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Vilayat Khan",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Bahadur Khan",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Amjad Ali Khan",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "1",
+    "question_id": "264330131305",
+    "status": "Answered",
+    "source_page": 16
+  },
+  {
+    "global_index": 40,
+    "section": "General Awareness",
+    "question_number": 15,
+    "question": "Which of the following countries was the host of AFC Women's Asia Cup\nFootball–2022?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Japan",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Bangladesh",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "India",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "China",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "--",
+    "question_id": "26433054689",
+    "status": "Not Answered",
+    "source_page": 16
+  },
+  {
+    "global_index": 41,
+    "section": "General Awareness",
+    "question_number": 16,
+    "question": "Ms Bhakti Pradip Kulkarni was conferred with the Arjuna Award 2022 for her\noutstanding contribution in which of the following sports?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Table Tennis",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Chess",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Badminton",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Wrestling",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "--",
+    "question_id": "264330130856",
+    "status": "Not Answered",
+    "source_page": 17
+  },
+  {
+    "global_index": 42,
+    "section": "General Awareness",
+    "question_number": 17,
+    "question": "Who among the following was the founder of ‘Tiger Legion' or ‘Free India Legion",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Vinayak Damodar Savarkar",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Subhas Chandra Bose",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Sohan Singh Bhakhna",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Lala Hardayal",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "3",
+    "question_id": "264330141521",
+    "status": "Answered",
+    "source_page": 17
+  },
+  {
+    "global_index": 43,
+    "section": "General Awareness",
+    "question_number": 18,
+    "question": "Name a reproductive strategy in which parasites take advantage of the care of ot\nindividuals of the same species or different species to raise their young.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Brood parasitism",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Sexual parasitism",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Klepto parasitism",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Competitive parasitism",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "--",
+    "question_id": "264330113482",
+    "status": "Not Answered",
+    "source_page": 17
+  },
+  {
+    "global_index": 44,
+    "section": "General Awareness",
+    "question_number": 19,
+    "question": "On the basis of tribal population (2011), identify the option that arranges the follo\nstates in ascending order.\nA. Madhya Pradesh\nB. Maharashtra\nC. Odisha",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "(C), (B), (A)",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "(B), (A), (C),",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "(C), (A), (B)",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "(B), (C), (A)",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "--",
+    "question_id": "264330132744",
+    "status": "Not Answered",
+    "source_page": 17
+  },
+  {
+    "global_index": 45,
+    "section": "General Awareness",
+    "question_number": 20,
+    "question": "In which industrial policy was the investment limit for tiny industry/unit increase\n₹2 lakh?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "1977",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "1991",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "1980",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "1956",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "--",
+    "question_id": "264330109392",
+    "status": "Not Answered",
+    "source_page": 17
+  },
+  {
+    "global_index": 46,
+    "section": "General Awareness",
+    "question_number": 21,
+    "question": "Which scientist thought of the concept of steady state of the universe?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Harold Jeffrey",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Edwin Hubble",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Fred Hoyle",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Pierre-Simon Laplace",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "2",
+    "question_id": "26433097111",
+    "status": "Answered",
+    "source_page": 18
+  },
+  {
+    "global_index": 47,
+    "section": "General Awareness",
+    "question_number": 22,
+    "question": "",
+    "question_image": "images/q47_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "i-b, ii-c, iii-a, iv-d",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "i-b, ii-a, iii-d, iv-c",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "i-d, ii-c, iii-b, iv-a",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "i-a, ii-b, iii-c, iv-d",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330109913",
+    "status": "Answered",
+    "source_page": 18
+  },
+  {
+    "global_index": 48,
+    "section": "General Awareness",
+    "question_number": 23,
+    "question": "Ryotwari system of revenue collection in India, introduced by the British, was ba\non the _______.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Smith’s theory of rent",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Ricardian theory of rent",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Malthusian theory of rent",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Marx’s theory of rent",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330109818",
+    "status": "Answered",
+    "source_page": 18
+  },
+  {
+    "global_index": 49,
+    "section": "General Awareness",
+    "question_number": 24,
+    "question": "Who received the Nobel Prize in 1901 for ‘recognition of the extraordinary servic\nrendered by the discovery of the laws of chemical dynamics and osmotic pressu\nsolutions’?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Hermann Emil Fischer",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Jacobus Henricus van 't Hoff",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Svante August Arrhenius",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Henri Moissan",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "--",
+    "question_id": "264330144047",
+    "status": "Not Answered",
+    "source_page": 18
+  },
+  {
+    "global_index": 50,
+    "section": "General Awareness",
+    "question_number": 25,
+    "question": "Which of the following Articles of the Indian Constitution are related to citizensh",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Articles 15 to 21",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Articles 5 to 11",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Articles 2 to 4",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Articles 25 to 31",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330144220",
+    "status": "Answered",
+    "source_page": 19
+  },
+  {
+    "global_index": 51,
+    "section": "Quantitative Aptitude",
+    "question_number": 1,
+    "question": "If A is 95% of B, then what per cent of A is B?",
+    "question_image": "images/q51_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q51_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q51_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q51_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q51_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "26433091507",
+    "status": "Answered",
+    "source_page": 19
+  },
+  {
+    "global_index": 52,
+    "section": "Quantitative Aptitude",
+    "question_number": 2,
+    "question": "The marked price of mustard oil is 25% more than its cost price. At what percent\nless than the marked price should it be sold to have no profit and no loss?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "15%",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "20%",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "18%",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "22%",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "26433082967",
+    "status": "Answered",
+    "source_page": 19
+  },
+  {
+    "global_index": 53,
+    "section": "Quantitative Aptitude",
+    "question_number": 3,
+    "question": "A can complete a piece of work in 25 days while B can complete the same work i\ndays. They work on alternate basis, starting with A. Both A and B follow this patt\nfor 5 days and then A leaves the work. In how many days will B finish the remain\nwork?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q53_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q53_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q53_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q53_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330108987",
+    "status": "Answered",
+    "source_page": 19
+  },
+  {
+    "global_index": 54,
+    "section": "Quantitative Aptitude",
+    "question_number": 4,
+    "question": "As part of his journey, a person travels 120 km at 80 km/h, the next 100 km at 40 \nand comes back to the starting point at 75 km/h. The average speed of the perso\nthroughout the journey (approximately) is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "63.46 km/h",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "58.74 km/h",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "68.15 km/h",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "49.58 km/h",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "--",
+    "question_id": "264330103694",
+    "status": "Not Answered",
+    "source_page": 20
+  },
+  {
+    "global_index": 55,
+    "section": "Quantitative Aptitude",
+    "question_number": 5,
+    "question": "8 men can complete a work in 45 days. 8 women can complete the same work in \ndays. In how many days will 5 men and 8 women, together, complete the same w",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q55_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q55_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q55_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q55_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "--",
+    "question_id": "264330143465",
+    "status": "Not Answered",
+    "source_page": 20
+  },
+  {
+    "global_index": 56,
+    "section": "Quantitative Aptitude",
+    "question_number": 6,
+    "question": "",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "256",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "254",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "255",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "259",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "1",
+    "question_id": "264330145549",
+    "status": "Answered",
+    "source_page": 20
+  },
+  {
+    "global_index": 57,
+    "section": "Quantitative Aptitude",
+    "question_number": 7,
+    "question": "",
+    "question_image": "images/q57_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "13",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "11",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "10",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "12",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330126601",
+    "status": "Answered",
+    "source_page": 20
+  },
+  {
+    "global_index": 58,
+    "section": "Quantitative Aptitude",
+    "question_number": 8,
+    "question": "Two concentric circles are of radii 10 cm and 6 cm. Find the length of the chord o\nlarger circle which touches the smaller circle.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "8 cm",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "16 cm",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "12 cm",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "9 cm",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "3",
+    "question_id": "264330143604",
+    "status": "Answered",
+    "source_page": 21
+  },
+  {
+    "global_index": 59,
+    "section": "Quantitative Aptitude",
+    "question_number": 9,
+    "question": "",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "75°",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "30°",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "15°",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "45°",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330126616",
+    "status": "Answered",
+    "source_page": 21
+  },
+  {
+    "global_index": 60,
+    "section": "Quantitative Aptitude",
+    "question_number": 10,
+    "question": "A train 900 m long is running at 108 km/h. How long will it take to clear a 900 m lo\nplatform completely?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "60 s",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "45 s",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "30 s",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "18 s",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433097578",
+    "status": "Answered",
+    "source_page": 21
+  },
+  {
+    "global_index": 61,
+    "section": "Quantitative Aptitude",
+    "question_number": 11,
+    "question": "",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q61_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q61_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q61_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q61_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "--",
+    "question_id": "264330130312",
+    "status": "Not Answered",
+    "source_page": 21
+  },
+  {
+    "global_index": 62,
+    "section": "Quantitative Aptitude",
+    "question_number": 12,
+    "question": "If m∠C=m∠Z and AC=XZ, then which of the following conditions is necessary for\nΔABC and ΔXYZ to be congruent?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "AB=AC",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "BC=YZ",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "AB=XY",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "BC=AB",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330131545",
+    "status": "Answered",
+    "source_page": 22
+  },
+  {
+    "global_index": 63,
+    "section": "Quantitative Aptitude",
+    "question_number": 13,
+    "question": "",
+    "question_image": "images/q63_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q63_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q63_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q63_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q63_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "26433075019",
+    "status": "Answered",
+    "source_page": 22
+  },
+  {
+    "global_index": 64,
+    "section": "Quantitative Aptitude",
+    "question_number": 14,
+    "question": "A shopkeeper offers the following two discount schemes.\nA) Buy 3 get 4 free\nB) Buy 5 get 6 free\nWhich scheme has the maximum discount percentage?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "A",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "A does not give any discount",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "A and B both have the same discount percentage",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "B",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330104250",
+    "status": "Answered",
+    "source_page": 22
+  },
+  {
+    "global_index": 65,
+    "section": "Quantitative Aptitude",
+    "question_number": 15,
+    "question": "",
+    "question_image": "images/q65_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "7800",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "8000",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "8250",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "8125",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330122696",
+    "status": "Answered",
+    "source_page": 23
+  },
+  {
+    "global_index": 66,
+    "section": "Quantitative Aptitude",
+    "question_number": 16,
+    "question": "In what time will ₹10,000 at 4% per annum, produce the same interest as ₹8,000 d\nin 4 years at 5% simple interest?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "5 years",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "3 years",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "4 years",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "6 years",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "264330111476",
+    "status": "Answered",
+    "source_page": 23
+  },
+  {
+    "global_index": 67,
+    "section": "Quantitative Aptitude",
+    "question_number": 17,
+    "question": "A man, a boy and a woman can finish a work in 10 days, 15 days and 30 days,\nrespectively. In how many days can the work be finished by a man, a woman and\nwhen all of them work together?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "10",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "5",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "8",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "6",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330112114",
+    "status": "Answered",
+    "source_page": 23
+  },
+  {
+    "global_index": 68,
+    "section": "Quantitative Aptitude",
+    "question_number": 18,
+    "question": "",
+    "question_image": "images/q68_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "",
+        "image": "images/q68_option_a.png",
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "",
+        "image": "images/q68_option_b.png",
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "",
+        "image": "images/q68_option_c.png",
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "",
+        "image": "images/q68_option_d.png",
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330143600",
+    "status": "Answered",
+    "source_page": 24
+  },
+  {
+    "global_index": 69,
+    "section": "Quantitative Aptitude",
+    "question_number": 19,
+    "question": "",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "– 329",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "– 359",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "– 361",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "– 327",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330114553",
+    "status": "Answered",
+    "source_page": 24
+  },
+  {
+    "global_index": 70,
+    "section": "Quantitative Aptitude",
+    "question_number": 20,
+    "question": "If the four numbers, 39, 117, 17 and y are in proportion, then find the value of y.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "49",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "51",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "57",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "85",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330103274",
+    "status": "Answered",
+    "source_page": 24
+  },
+  {
+    "global_index": 71,
+    "section": "Quantitative Aptitude",
+    "question_number": 21,
+    "question": "",
+    "question_image": "images/q71_question.png",
+    "options": [
+      {
+        "id": 1,
+        "text": "278.234 cm3",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "312.725 cm3",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "297.824 cm3",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "310.464 cm3",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330111489",
+    "status": "Answered",
+    "source_page": 24
+  },
+  {
+    "global_index": 72,
+    "section": "Quantitative Aptitude",
+    "question_number": 22,
+    "question": "",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "84",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "83",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "82",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "81",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "--",
+    "question_id": "264330101342",
+    "status": "Not Answered",
+    "source_page": 25
+  },
+  {
+    "global_index": 73,
+    "section": "Quantitative Aptitude",
+    "question_number": 23,
+    "question": "If {(3 sin θ – cos θ) / (cos θ + sin θ)} = 1, then the value of cot θ is:",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "3",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "0",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "1",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "2",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "--",
+    "question_id": "26433075266",
+    "status": "Not Answered",
+    "source_page": 25
+  },
+  {
+    "global_index": 74,
+    "section": "Quantitative Aptitude",
+    "question_number": 24,
+    "question": "Two runners, Sony and Mony, start running on a circular track of length 200 m at\nspeeds of 18 and 24 km/h, respectively, in the same direction. After how much tim\nfrom the start will they meet again at the starting point?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "120 sec",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "110 sec",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "100 sec",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "90 sec",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "--",
+    "question_id": "264330143478",
+    "status": "Not Answered",
+    "source_page": 25
+  },
+  {
+    "global_index": 75,
+    "section": "Quantitative Aptitude",
+    "question_number": 25,
+    "question": "What will be the remainder when (265)4081+9 is divided by 266?",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "8",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "6",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "1",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "9",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330131510",
+    "status": "Answered",
+    "source_page": 25
+  },
+  {
+    "global_index": 76,
+    "section": "English Comprehension",
+    "question_number": 1,
+    "question": "The following sentence has been split into four segments. Identify the segment t\ncontains an error.\nNeetu have been / waiting for me / since 10 o’clock / in the morning.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Neetu have been",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "in the morning",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "since 10 o’clock",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "waiting for me",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433088296",
+    "status": "Answered",
+    "source_page": 25
+  },
+  {
+    "global_index": 77,
+    "section": "English Comprehension",
+    "question_number": 2,
+    "question": "Select the most appropriate ANTONYM of the underlined word.\nHer dog can climb under the fence.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Over",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Sink",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Behind",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Beneath",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330121046",
+    "status": "Answered",
+    "source_page": 26
+  },
+  {
+    "global_index": 78,
+    "section": "English Comprehension",
+    "question_number": 3,
+    "question": "Select the INCORRECTLY spelt word in the given sentence.\nThe village beggars, no longer ill at ease in the gathering of gliterring dignitaries\nin their assigned rows and joked with vegetarian Brahmin apprentices.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "assigned",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "apprentices",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "beggars",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "gliterring",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330108900",
+    "status": "Answered",
+    "source_page": 26
+  },
+  {
+    "global_index": 79,
+    "section": "English Comprehension",
+    "question_number": 4,
+    "question": "Select the option that expresses the given sentence in passive voice.\nThe company's board of directors will announce the financial results at the annu\nmeeting tomorrow.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "The financial results will have been announced by the company's board of direc the annual meeting tomorrow.",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "The financial results are being announced by the company's board of directors annual meeting tomorrow.",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "The company's board of directors announced the financial results at the annua meeting tomorrow.",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "The financial results will be announced by the company's board of directors at annual meeting tomorrow.",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330137480",
+    "status": "Answered",
+    "source_page": 26
+  },
+  {
+    "global_index": 80,
+    "section": "English Comprehension",
+    "question_number": 5,
+    "question": "Select the grammatically correct sentence.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "The participants of the competition are waiting for their turn curiously.",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "The participants of the competition has been waiting for their turn curiously.",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "A participants of the competition is waiting for their turn curiously.",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "The participants of the competition is waiting for their turn curiously.",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433073773",
+    "status": "Answered",
+    "source_page": 26
+  },
+  {
+    "global_index": 81,
+    "section": "English Comprehension",
+    "question_number": 6,
+    "question": "Select the most appropriate ANTONYM of the underlined word in the given sente\nHenry is so servile that other people take advantage of him.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Arrogant",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Sheepish",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Bickering",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Cunning",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "4",
+    "question_id": "26433087923",
+    "status": "Answered",
+    "source_page": 27
+  },
+  {
+    "global_index": 82,
+    "section": "English Comprehension",
+    "question_number": 7,
+    "question": "Select the option that can be used as a one-word substitute for the given group o\nwords.\nA thing fit to eat.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Eligible",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Digestible",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Curable",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Edible",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "26433086366",
+    "status": "Answered",
+    "source_page": 27
+  },
+  {
+    "global_index": 83,
+    "section": "English Comprehension",
+    "question_number": 8,
+    "question": "Select the most appropriate meaning of the given idiom.\nLily-livered",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Brave",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Comical",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Not brave",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Naughty",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "--",
+    "question_id": "26433089007",
+    "status": "Not Answered",
+    "source_page": 27
+  },
+  {
+    "global_index": 84,
+    "section": "English Comprehension",
+    "question_number": 9,
+    "question": "Select the most appropriate synonym of the given word.\nZealous",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Enthusiastic",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Detached",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Apathetic",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Indifferent",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "3",
+    "question_id": "26433073693",
+    "status": "Answered",
+    "source_page": 27
+  },
+  {
+    "global_index": 85,
+    "section": "English Comprehension",
+    "question_number": 10,
+    "question": "Select the most appropriate option that can substitute the underlined word in the\ngiven sentence.\nShe had an ability to persuade others.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "halt",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "suppress",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "outrage",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "impress",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "2",
+    "question_id": "26433092066",
+    "status": "Answered",
+    "source_page": 28
+  },
+  {
+    "global_index": 86,
+    "section": "English Comprehension",
+    "question_number": 11,
+    "question": "Select the most appropriate option that can substitute the underlined segment in\ngiven sentence.\nWe must remember that what we teach our children is what we inculcate in them",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "endanger",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "inspire",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "instil",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "import",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "26433098909",
+    "status": "Answered",
+    "source_page": 28
+  },
+  {
+    "global_index": 87,
+    "section": "English Comprehension",
+    "question_number": 12,
+    "question": "Select the option that expresses the given sentence in passive voice.\nHe won’t receive any better choice than this from anywhere.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Any better choice won’t be received by him than this from anywhere.",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Any better choice wouldn’t have received by him than this from anywhere.",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Any better choice shouldn’t be received by him than this from anywhere.",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Any better choice won’t have been be received by him than this from anywhere",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "26433094755",
+    "status": "Answered",
+    "source_page": 28
+  },
+  {
+    "global_index": 88,
+    "section": "English Comprehension",
+    "question_number": 13,
+    "question": "Select the most appropriate synonym of the given word.\nFeeble",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Unheedful",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Strong",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Weak",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Baneful",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "26433099870",
+    "status": "Answered",
+    "source_page": 28
+  },
+  {
+    "global_index": 89,
+    "section": "English Comprehension",
+    "question_number": 14,
+    "question": "Select the correct spelling of the underline word.\nThey denied having any associasion with the terrorists.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "asociation",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "asocciation",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "assosiation",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "association",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "26433094772",
+    "status": "Answered",
+    "source_page": 28
+  },
+  {
+    "global_index": 90,
+    "section": "English Comprehension",
+    "question_number": 15,
+    "question": "Select the most appropriate meaning of the underlined idiom in the given senten\nPooja tried to explain the problem, but soon she tied herself up in knots.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Be forced to explain your actions and (probably) punished",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "Become very confused when you are trying to explain something",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Make no progress in an argument or discussion",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "Won’t modify an opinion or agree to even small changes that another person w",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "26433091349",
+    "status": "Answered",
+    "source_page": 29
+  },
+  {
+    "global_index": 91,
+    "section": "English Comprehension",
+    "question_number": 16,
+    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentenc\nthe correct order to form a meaningful and coherent paragraph.\nA. In Bihar and Central India, in particular, every district had smelters that used l\ndeposits of ore to produce iron which was widely used for the manufacture of\nimplements and tools of daily use.\nB. The smelting was done by men while women worked on the bellows, pumping\nthat kept the charcoal burning.\nC. But iron smelting in India was extremely common till the end of the nineteenth\ncentury.\nD. Production of Wootz steel required a highly specialised technique of refining",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "ACDB",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "DCAB",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "BCDA",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "CBDA",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330143864",
+    "status": "Answered",
+    "source_page": 29
+  },
+  {
+    "global_index": 92,
+    "section": "English Comprehension",
+    "question_number": 17,
+    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentenc\nthe correct order to form a meaningful and coherent paragraph.\nA. He repeated the experiment, increasing the amount until he had weighed up to\nthousand pounds.\nB. During the spring of 1717, the iron foundries in a remote district were often vis\nby a thin, middle-aged man with a notebook.\nC. Three cauldrons were next prepared under his directions.\nD. He would weigh out two pounds of iron, have them heated till they were red-ho\nthen weigh them again.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "BDAC",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "ABDC",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "BCAD",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "CABD",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "--",
+    "question_id": "26433096974",
+    "status": "Not Answered",
+    "source_page": 29
+  },
+  {
+    "global_index": 93,
+    "section": "English Comprehension",
+    "question_number": 18,
+    "question": "Select the most appropriate option to fill in the blank.\nShe is _________ a peacock in the blue satin saree.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "very beautiful as",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "so beautiful as",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "as beautiful as",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "beautiful like",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "26433072720",
+    "status": "Answered",
+    "source_page": 29
+  },
+  {
+    "global_index": 94,
+    "section": "English Comprehension",
+    "question_number": 19,
+    "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentenc\nthe correct order to form a meaningful and coherent paragraph.\nA.The top band is made of saffron, which symbolises power and courage.\nB.The constituent assembly adopted our national flag, Tiranga, which means tric\non 22 July 1947.\nC.As a symbol of nationalism and freedom, it is fashioned from khadi, which is\ndomestically spun Indian cotton.\nD.It features three horizontal stripes that are all the same width.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "CBAD",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "CBDA",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "BCDA",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "BDCA",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "26433096979",
+    "status": "Answered",
+    "source_page": 30
+  },
+  {
+    "global_index": 95,
+    "section": "English Comprehension",
+    "question_number": 20,
+    "question": "Select the most appropriate homonym to fill in the blank.\nThe hunter dogs followed the hyena’s ________.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "sense",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "scent",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "cense",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "cents",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 2,
+    "chosen_option": "2",
+    "question_id": "264330142390",
+    "status": "Answered",
+    "source_page": 30
+  },
+  {
+    "global_index": 96,
+    "section": "English Comprehension",
+    "question_number": 21,
+    "question": "Comprehension:\nIn the following passage some words have been deleted. Fill in the blanks with the help\nalternatives given. Select the most appropriate option for each number.\nHuman life is (1) _______ a unique blessing, which in turn depends on the (2) _______\nSelf. He who is not aware of the Self can neither have peace nor can he foster peacefu\nexistence. We have to link our soul with God and body with the physical world for subs\n(3) _______ the formless God is invisible to the naked eye, our mind often wanders wh\nit goes. (4) _______ , we are unable to develop any love for the Divine. And religion lik\nwhite light of heavens (5) _______ multi-coloured fragmentations by the prisms of men\nloses its gravity. Instead of uniting, it becomes a major dividing force. French philosoph\nhard de Chardin, thinking deeply on meaning of our existence and relationship with the\nDivine, expounds, “we are not human beings having a spiritual experience, we are spir\nbeings having a human experience”.\nSubQuestion No : 21\nQ.21 Select the most appropriate option to fill in blank no. 1.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "considering",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "to consider",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "considered",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "consider",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "1",
+    "question_id": "264330139174",
+    "status": "Answered",
+    "source_page": 30
+  },
+  {
+    "global_index": 97,
+    "section": "English Comprehension",
+    "question_number": 22,
+    "question": "Comprehension:\nIn the following passage some words have been deleted. Fill in the blanks with the help\nalternatives given. Select the most appropriate option for each number.\nHuman life is (1) _______ a unique blessing, which in turn depends on the (2) _______\nSelf. He who is not aware of the Self can neither have peace nor can he foster peacefu\nexistence. We have to link our soul with God and body with the physical world for subs\n(3) _______ the formless God is invisible to the naked eye, our mind often wanders wh\nit goes. (4) _______ , we are unable to develop any love for the Divine. And religion like\nwhite light of heavens (5) _______ multi-coloured fragmentations by the prisms of men\nloses its gravity. Instead of uniting, it becomes a major dividing force. French philosoph\nhard de Chardin, thinking deeply on meaning of our existence and relationship with the\nDivine, expounds, “we are not human beings having a spiritual experience, we are spir\nbeings having a human experience”.\nSubQuestion No : 22\nQ.22 Select the most appropriate option to fill in blank no. 2.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "witness",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "known",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "awareness",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "aware",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 3,
+    "chosen_option": "3",
+    "question_id": "264330139175",
+    "status": "Answered",
+    "source_page": 31
+  },
+  {
+    "global_index": 98,
+    "section": "English Comprehension",
+    "question_number": 23,
+    "question": "Comprehension:\nIn the following passage some words have been deleted. Fill in the blanks with the help\nalternatives given. Select the most appropriate option for each number.\nHuman life is (1) _______ a unique blessing, which in turn depends on the (2) _______\nSelf. He who is not aware of the Self can neither have peace nor can he foster peacefu\nexistence. We have to link our soul with God and body with the physical world for subs\n(3) _______ the formless God is invisible to the naked eye, our mind often wanders wh\nit goes. (4) _______ , we are unable to develop any love for the Divine. And religion lik\nwhite light of heavens (5) _______ multi-coloured fragmentations by the prisms of men\nloses its gravity. Instead of uniting, it becomes a major dividing force. French philosoph\nhard de Chardin, thinking deeply on meaning of our existence and relationship with the\nDivine, expounds, “we are not human beings having a spiritual experience, we are spir\nbeings having a human experience”.\nSubQuestion No : 23\nQ.23 Select the most appropriate option to fill in blank no. 3.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "Since",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "From",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "As per",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "For",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330139176",
+    "status": "Answered",
+    "source_page": 31
+  },
+  {
+    "global_index": 99,
+    "section": "English Comprehension",
+    "question_number": 24,
+    "question": "Comprehension:\nIn the following passage some words have been deleted. Fill in the blanks with the help\nalternatives given. Select the most appropriate option for each number.\nHuman life is (1) _______ a unique blessing, which in turn depends on the (2) _______\nSelf. He who is not aware of the Self can neither have peace nor can he foster peacefu\nexistence. We have to link our soul with God and body with the physical world for subs\n(3) _______ the formless God is invisible to the naked eye, our mind often wanders wh\nit goes. (4) _______ , we are unable to develop any love for the Divine. And religion like\nwhite light of heavens (5) _______ multi-coloured fragmentations by the prisms of men\nloses its gravity. Instead of uniting, it becomes a major dividing force. French philosoph\nhard de Chardin, thinking deeply on meaning of our existence and relationship with the\nDivine, expounds, “we are not human beings having a spiritual experience, we are spir\nbeings having a human experience”.\nSubQuestion No : 24\nQ.24 Select the most appropriate option to fill in blank no. 4.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "As a result",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "As a reaction",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "Causing",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "As a reason",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 1,
+    "chosen_option": "1",
+    "question_id": "264330139177",
+    "status": "Answered",
+    "source_page": 32
+  },
+  {
+    "global_index": 100,
+    "section": "English Comprehension",
+    "question_number": 25,
+    "question": "Comprehension:\nIn the following passage some words have been deleted. Fill in the blanks with the help\nalternatives given. Select the most appropriate option for each number.\nHuman life is (1) _______ a unique blessing, which in turn depends on the (2) _______\nSelf. He who is not aware of the Self can neither have peace nor can he foster peacefu\nexistence. We have to link our soul with God and body with the physical world for subs\n(3) _______ the formless God is invisible to the naked eye, our mind often wanders wh\nit goes. (4) _______ , we are unable to develop any love for the Divine. And religion lik\nwhite light of heavens (5) _______ multi-coloured fragmentations by the prisms of men\nloses its gravity. Instead of uniting, it becomes a major dividing force. French philosoph\nhard de Chardin, thinking deeply on meaning of our existence and relationship with the\nDivine, expounds, “we are not human beings having a spiritual experience, we are spir\nbeings having a human experience”.\nSubQuestion No : 25\nQ.25 Select the most appropriate option to fill in blank no. 5.",
+    "question_image": null,
+    "options": [
+      {
+        "id": 1,
+        "text": "break into",
+        "image": null,
+        "option_name": "Option 1"
+      },
+      {
+        "id": 2,
+        "text": "breaks to",
+        "image": null,
+        "option_name": "Option 2"
+      },
+      {
+        "id": 3,
+        "text": "break from",
+        "image": null,
+        "option_name": "Option 3"
+      },
+      {
+        "id": 4,
+        "text": "breaks into",
+        "image": null,
+        "option_name": "Option 4"
+      }
+    ],
+    "correct_answer": 4,
+    "chosen_option": "4",
+    "question_id": "264330139178",
+    "status": "Answered",
+    "source_page": 32
+  }
+]

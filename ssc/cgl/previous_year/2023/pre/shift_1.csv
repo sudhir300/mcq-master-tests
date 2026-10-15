@@ -1,0 +1,2309 @@
+question_number,section,question,optionA,optionB,optionC,optionD,correctAnswer,explanation,question_image
+1,General Intelligence and Reasoning,Select the option figure which is embedded in the given figure. (Rotation is NOT allowed).,,,,,B,"The image embedded in given figure is as shown below:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/q1_solution_table.png]
+
+Hence, the correct answer is **Option 2**.",images/q1_question.png
+2,General Intelligence and Reasoning,"Select the option that represents the correct order of the given words as they would appear in an English dictionary.
+
+1. Warriors
+2. Warehouse
+3. Warcraft
+4. Warranty
+5. Wardrobe
+6. Wardenship","3, 6, 5, 2, 1, 4","3, 5, 6, 2, 1, 4","3, 5, 6, 2, 4, 1","3, 6, 5, 2, 4, 1",D,"The option that represents the correct order of the given words as they would appear in an English dictionary is:
+
+3. **War**craft
+6. **Ward**enship
+5. **Ward**robe
+2. **Ware**house
+4. **Warra**nty
+1. **Warri**ors
+
+Hence, the correct answer is ""3, 6, 5, 2, 4, 1"".",
+3,General Intelligence and Reasoning,"Three statements are given, followed by four conclusions numbered I, II, III and IV.
+Assuming the statements to be true, even if they seem to be at variance with
+commonly known facts, decide which of the conclusions logically follow(s) from the
+statements.
+
+Statements:
+Some desks are trays.
+Some trays are plates.
+Some plates are desks.
+
+Conclusions:
+I. All desks are plates.
+II. All plates are desks.
+III. Some plates are trays.
+IV. All trays are desks.",Only conclusion III follows,Only conclusion IV follows,Only conclusion II follows,Only conclusion I follows,A,"From the given statements, we can draw the following Venn diagram:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/q3_venn_diagram.png]
+
+**Checking Conclusions:**
+• **Conclusion I (All desks are plates):** Does not follow. There is only a partial intersection between Desks and Plates.
+• **Conclusion II (All plates are desks):** Does not follow. A particular statement cannot yield a universal conclusion.
+• **Conclusion III (Some plates are trays):** **Follows.** Since ""Some trays are plates"", by immediate conversion (""Some A are B"" => ""Some B are A""), ""Some plates are trays"" is definitely true.
+• **Conclusion IV (All trays are desks):** Does not follow. Only some trays are desks.
+
+Therefore, **only conclusion III follows**.
+
+Hence, the correct answer is **""Only conclusion III follows""**.",
+4,General Intelligence and Reasoning,"Select the option that is related to the third word in the same way as the second word is related to the first word.
+
+(The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)
+
+Skin : Touch :: Nose : ?",Smell,Taste,Nose ring,Sweat,A,"The logic followed here is:
+
+• **Skin : Touch** → Skin is the sensory organ associated with **Touch**.
+• **Nose : Smell** → Similarly, Nose is the sensory organ associated with **Smell**.
+
+Hence, the correct answer is ""Smell"".",
+5,General Intelligence and Reasoning,Ganesh was taking a walk with his mother's brother's father's granddaughter. Who was he walking with?,Daughter,Mother,Cousin,Granddaughter,C,"According to the given information:
+
+• Mother's brother → Maternal Uncle
+• Maternal Uncle's father → Maternal Grandfather
+• Maternal Grandfather's granddaughter → Daughter of Maternal Uncle or Aunt → **Cousin**
+
+Therefore, Ganesh was walking with his **Cousin**.
+
+Hence, the correct answer is ""Cousin"".",
+6,General Intelligence and Reasoning,Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.,,,,,D,"The correct mirror image of the given figure when the mirror is placed at MN is shown below:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/q6_mirror_solution.png]
+
+Hence, the correct answer is **""Option 4""**.",images/q6_question.png
+7,General Intelligence and Reasoning,"Which of the following letter-clusters will replace the question mark (?) in the given series?
+
+UV, OY, IB, EE, ?",ZK,AH,BI,BH,B,"The logic followed here is:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/alphabet_positional_table.png]
+
+• **1st letter:** Follows reverse vowel order:
+  U → O → I → E → **A**
+• **2nd letter:** Increases by +3:
+  V (+3) → Y (+3) → B (+3) → E (+3) → **H**
+
+Combining the two letters: **AH**
+
+Hence, the correct answer is ""AH"".",
+8,General Intelligence and Reasoning,"The second number in the given number-pairs is obtained by performing certain
+mathematical operation(s) on the first number. The same operation(s) is/are followed
+in all the number-pairs except one. Find that odd number-pair.",20 : 11,6 : 4,15 : 9,12 : 7,C,"The logic followed here is:
+
+**Pattern:** Second Number = (First Number ÷ 2) + 1
+
+• **20 : 11** → (20 ÷ 2) + 1 = 10 + 1 = 11
+• **6 : 4** → (6 ÷ 2) + 1 = 3 + 1 = 4
+• **12 : 7** → (12 ÷ 2) + 1 = 6 + 1 = 7
+• **15 : 9** → (15 ÷ 2) + 1 = 7.5 + 1 = 8.5 ≠ 9 (Does not follow)
+
+Hence, the correct answer is ""15 : 9"".",
+9,General Intelligence and Reasoning,Select the figure that will replace the question mark (?) in the following figure series.,,,,,C,"The logic followed here is:
+
+• In the given 3×3 grid across consecutive frames, symbols shift in a cyclical pattern along the outer perimeter.
+• In each step, elements at the outer corners shift one position clockwise/counter-clockwise.
+• A new symbol enters at the central position in frame 3 and then shifts to the bottom-left corner in frame 4.
+• In frame 5, following this continuous cyclic movement, **Option 3** is uniquely obtained.
+
+Hence, the correct answer is ""Option 3"".",images/q9_question.png
+10,General Intelligence and Reasoning,"Three different positions of the same dice are shown. Find the number on the face
+opposite the face showing ‘1’.",6,2,3,4,C,"[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/q10_pair1.png]
+
+As 1 and 6 are the common faces on both the dice, the remaining faces 2 and 5 are opposite to each other.
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/q10_pair2.png]
+
+As 1 and 5 are the common faces on both the dice, the remaining faces 6 and 4 are opposite to each other.
+
+Clearly, the remaining number 3 will be opposite to 1.
+
+Hence, the correct answer is ""3"".",images/q10_question.png
+11,General Intelligence and Reasoning,"Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+(55, 11, 25)
+(64,16, 16)
+
+(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)","(33, 11, 9)","(33, 11, 22)","(33, 11, 3)","(33, 11, 10)",A,"The logic followed here is:
+
+**Pattern:** (First Number ÷ Second Number)² = Third Number
+
+• **(55, 11, 25):** (55 ÷ 11)² = 5² = 25
+• **(64, 16, 16):** (64 ÷ 16)² = 4² = 16
+
+Similarly, testing options:
+• **(33, 11, 9):** (33 ÷ 11)² = 3² = 9
+
+Hence, the correct answer is ""(33, 11, 9)"".",
+12,General Intelligence and Reasoning,"Select the option that is related to the sixth letter-cluster in the same way as the first letter-cluster is related to the second letter-cluster and the third letter-cluster is related to the fourth letter-cluster.
+
+HMD : KOE : : BNQ : EPR :: ? : FLV",SJE,UJC,EJS,CJU,D,"The logic followed here is:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/alphabet_positional_table.png]
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/q12_shift_diagram.png]
+
+Hence, '**CJU**' is the correct answer.",
+13,General Intelligence and Reasoning,Select the figure from the options that can replace the question mark (?) and complete the given pattern.,,,,,D,"The logic followed here is:
+
+• Tracking the movement of each individual symbol from frame to frame:
+  - Corner and central axis symbols cycle positions in pairs in consecutive frames.
+  - The arrow moves cyclically through bottom-left → bottom-right → center-right → center-left → top-left.
+  - Letter 'D' and triangle alternate across diagonal vertices.
+• Continuing this exact transformation to frame 5 produces **Option 4**.
+
+Hence, the correct answer is ""Option 4"".",images/q13_question.png
+14,General Intelligence and Reasoning,"Select the Venn diagram that best illustrates the relationship between the following classes.
+
+Ticket, Aeroplane, Train",,,,,A,"The Venn diagram that best illustrates the relationship between Ticket, Aeroplane, and Train is shown below:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/q14_solution_diagram.png]
+
+We need ticket to travel on Train and Aeroplane.
+
+Hence, 'option 1' is the correct answer.",
+15,General Intelligence and Reasoning,"Four letter-clusters have been given, out of which three are alike in some manner and
+one is different. Select the odd letter-cluster.",BFJN,DHLP,HJKP,JNRV,C,"The logic followed here is:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/alphabet_positional_table.png]
+
+• **BFJN:** B (+4) → F (+4) → J (+4) → N
+• **DHLP:** D (+4) → H (+4) → L (+4) → P
+• **HJKP:** H (+2) → J (+1) → K (+5) → P
+• **JNRV:** J (+4) → N (+4) → R (+4) → V
+
+All letter-clusters have a constant step of **+4**, except **HJKP**.
+
+Hence, the correct answer is ""HJKP"".",
+16,General Intelligence and Reasoning,"Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.
+
+5 : 45::3 : 3::6 : ?",90,106,110,96,D,"The logic followed here is:
+
+**Pattern:** Second Number = (n - 2)² × n
+
+• **5 : 45** → (5 - 2)² × 5 = 3² × 5 = 9 × 5 = 45
+• **3 : 3** → (3 - 2)² × 3 = 1² × 3 = 1 × 3 = 3
+• **6 : 96** → (6 - 2)² × 6 = 4² × 6 = 16 × 6 = 96
+• **2 : 10** → (2 - 2)² × 2 = 0² × 2 = 0 ≠ 10 (Does not follow)
+
+Hence, the correct answer is ""2 : 10"".",
+17,General Intelligence and Reasoning,"Which of the following numbers will replace the question mark (?) in the given series?
+
+8, 15, 26, ? , 56, 75",39,41,35,43,A,"The logic followed here is:
+
+The differences between consecutive terms are **consecutive prime numbers**:
+
+• 8 + **7** = 15
+• 15 + **11** = 26
+• 26 + **13** = **39**
+• 39 + **17** = 56
+• 56 + **19** = 75
+
+The consecutive prime numbers added are: 7, 11, 13, 17, 19.
+
+Hence, the correct answer is ""39"".",
+18,General Intelligence and Reasoning,"Select the option that is related to the third term in the same way as the second term is
+related to the first term and the sixth term is related to the fifth term.
+
+7183 : 3850 :: 6957 : ? :: 8972 : 5639",3426,3624,3246,3642,B,"The logic followed here is:
+
+• 7183 − 3333 = 3850
+• 8972 − 3333 = 5639
+
+Similarly,
+• 6957 − 3333 = **3624**
+
+Hence, the correct answer is ""3624"".",
+19,General Intelligence and Reasoning,Three different positions of the same dice are shown. Find the number on the face opposite the face showing '4'.,5,6,2,3,D,"[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/q19_pair1.png]
+
+As 5 and 6 are the common faces on both the dice, the remaining faces 4 and 3 are opposite to each other.
+
+Clearly, the number on the face opposite to 4 is 3.
+
+Hence, the correct answer is ""3"".",images/q19_question.png
+20,General Intelligence and Reasoning,"Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.
+
+625 : 5 :: 2560 : 8 :: 5000 : ?",9,12,10,15,C,"The logic followed here is:
+
+**Pattern:** First Number = 5 × (Second Number - 1)
+
+• **60 : 13** → 5 × (13 - 1) = 5 × 12 = 60
+• **50 : 11** → 5 × (11 - 1) = 5 × 10 = 50
+• **40 : 9** → 5 × (9 - 1) = 5 × 8 = 40
+• **75 : 15** → 5 × (15 - 1) = 5 × 14 = 70 ≠ 75 (Does not follow)
+
+Hence, the correct answer is ""75 : 15"".",
+21,General Intelligence and Reasoning,"In a certain code language, ‘ASK’ is written as ‘62’ and ‘BYE’ is written as ‘64’. How will
+‘CRY’ be written in that language?",68,72,86,92,D,"[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/alphabet_positional_table.png]
+
+**Pattern:** Code = (Sum of positional values) × 2
+
+• **ASK:**
+  A = 1, S = 19, K = 11
+  Sum = 1 + 19 + 11 = 31
+  Code = 31 × 2 = 62
+
+• **BYE:**
+  B = 2, Y = 25, E = 5
+  Sum = 2 + 25 + 5 = 32
+  Code = 32 × 2 = 64
+
+Similarly, for **CRY**:
+  C = 3, R = 18, Y = 25
+  Sum = 3 + 18 + 25 = 46
+  Code = 46 × 2 = 92
+
+Hence, the correct answer is ""92"".",
+22,General Intelligence and Reasoning,"Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.
+
+256 * 4 * 9 * 3 * 14 = 51",× + − ÷,÷ × − +,× ÷ + −,÷ − × +,D,"Given equation:
+\(256 * 4 * 9 * 3 * 14 = 51\)
+
+Testing **Option 4 (÷, −, ×, +)**:
+\(256 \div 4 - 9 \times 3 + 14\)
+= \(64 - 27 + 14\)
+= \(37 + 14 = 51\)
+
+LHS = RHS.
+
+Hence, the correct answer is ""÷, −, ×, +"".",
+23,General Intelligence and Reasoning,"Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series.
+
+C L _ V E C _ _ W E C L O _ _ C _ O _ E",O L P X E L Y,O L O Y E L Z,O L O X F M Y,O L O X E L Y,D,"The logic followed here is:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/alphabet_positional_table.png]
+
+Dividing into 4 equal groups of 5 letters each:
+• **C L O V E**
+• **C L O W E**
+• **C L O X E**
+• **C L O Y E**
+
+Pattern: Letters 1, 2, 3 (C, L, O) and letter 5 (E) are constant; the 4th letter increases by +1 (**V → W → X → Y**).
+
+Missing letters: **O L O X E L Y**
+
+Hence, the correct answer is ""O L O X E L Y"".",
+24,General Intelligence and Reasoning,"In a certain code language, ‘TABLE’ is coded as ELEAT and ‘SWING’ is coded as
+GNLWS. How will ‘FRAME’ be coded in the same language?",EMERF,EMDRF,ERMDF,MEDFR,B,"The logic followed here is:
+
+[IMAGE: assets/tests/ssc_cgl/previous_year/2023/pre/images/alphabet_positional_table.png]
+
+Letter rearrangement and transformation pattern:
+• **5th letter** → Position 1
+• **4th letter** → Position 2
+• **3rd letter (+3)** → Position 3
+• **2nd letter** → Position 4
+• **1st letter** → Position 5
+
+Verification:
+• **TABLE:** E, L, (B + 3 = E), A, T → **ELEAT**
+• **SWING:** G, N, (I + 3 = L), W, S → **GNLWS**
+
+Similarly,
+• **FRAME:** E, M, (A + 3 = D), R, F → **EMDRF**
+
+Hence, the correct answer is ""EMDRF"".",
+25,General Intelligence and Reasoning,"Which two signs should be interchanged to make the given equation correct?
+
+588 ÷ 28 × 32 + 72 – 160 = 760",– and +,÷ and –,+ and ×,÷ and +,A,"Given equation:
+\(588 \div 28 \times 32 + 72 - 160 = 760\)
+
+Testing **Option 3 (Interchanging + and −)**:
+\(588 \div 28 \times 32 - 72 + 160\)
+= \(21 \times 32 - 72 + 160\)
+= \(672 - 72 + 160\)
+= \(600 + 160 = 760\)
+
+LHS = RHS.
+
+Hence, the correct answer is ""+ and −"".",
+1,General Awareness,The length of the badminton court for singles is:,13.44 m,13.55 m,14 m,13.40 m,D,"The correct answer is **13.40 m.**
+
+**Key Points:**
+**
+
+• **Badminton:-**
+
+It is a racquet sport played using racquets to hit a shuttlecock across a net.
+Badminton is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court.
+Points are scored by striking the shuttlecock with the racquet and landing it within the other team's half of the court.
+
+• **Badminton courts:-**
+
+It's ​**width** for singles is 5.18 m and for doubles it is 6.1 m.
+The badminton net is placed at the **center of the court,** and its height is **1.55 meters**from the ground level.
+The court's lines are **40mm wide**and are considered inside the court's measurements.
+The badminton court's overall area is 87.4 square meters, and it is divided into two equal halves for singles and doubles games.
+
+**
+
+**Additional Information:**
+**
+
+• Here is a list of the names of badminton cups:
+
+**Thomas Cup**: International men's team badminton championship
+**Uber Cup**: International women's team badminton championship
+**Sudirman Cup**: International mixed team badminton championship
+**BWF World Championships**: Individual badminton championship featuring singles, doubles, and mixed doubles
+**BWF World Junior Championships:**Individual badminton championship for players under the age of 19
+**BWF World Senior Championships:** Individual badminton championship for players over the age of 35
+BWF World Tour Super 1000, Super 750, Super 500, and Super 300 tournaments: Series of badminton tournaments held throughout the year
+
+79",
+2,General Awareness,Who is the Administrative Head of the Indian Audit and Accounts Department?,Accountant General,Principal Accountant General,Director General,The Comptroller and Auditor General,D,"The correct answer is **The Comptroller and Auditor General.**
+
+**Key Points:**
+**
+
+• **Comptroller and Auditor General:-**
+
+The**Administrative Head**of the Indian Audit and Accounts Department is The **Comptroller and Auditor General (CAG).**
+The CAG is a constitutional authority that is responsible for**auditing all receipts** and **expenditures** of the Government of India and the state governments.
+This includes auditing the accounts of various **ministries, departments, and public sector undertakings.**
+The CAG is appointed by the**President of India** for a term of**six years.**
+He/she can be removed only through a **process of impeachment** by the Parliament.
+The CAG is assisted by a **team of officers**who are responsible for carrying out the audit work.
+This team includes**Accountant Generals, Principal Accountant Generals, and Director Generals.
+
+**Additional Information:**
+**
+
+• **Accountant General (AG):-**
+
+It is the head of the state audit offices.
+There are**28 AG offices** in the country, one for**each state and union territory.**
+The AG is responsible for conducting **audits of the state governments' accounts**and reporting the findings to the CAG.
+
+• **Principal Accountant General (PAG):-**
+
+It is the head of the **audit offices** for specific sectors such as**defence, railways, and posts and telecommunications.**
+The PAGs **report**to the CAG through the AGs.
+
+• **Director General (DG):-**
+
+It​is the head of the audit offices for specific functions such as **commercial audits, performance audits, and IT audits**.
+The DGs **report** to the CAG directly.
+
+81",
+3,General Awareness,"Which of the following is the largest pan-India scheme to strengthen health care
+infrastructure across the country with focus on primary, secondary and tertiary care
+services?",LaQshya,AB-PMJAY,PM-ABHIM,PM-MI,C,"The correct answer is **PM-ABHIM.**
+
+**Key Points:**
+**
+
+• **PM-ABHIM:-**
+
+Itstands for**Pradhan MantriAyushman Bharat Health Infrastructure Mission**.**
+This scheme is the **largest pan-India scheme** aimed a**t strengthening health care**infrastructure across the country.
+It focuses on providing**primary, secondary, and tertiary** care services to the citizens of India.
+The scheme aims to improve the availability of**quality health care services**, especially in the**rural and remote areas.**
+Additionally, PM-ABHIM also aims to**reduce the financial burden** on the citizens by providing them with affordable health care services.
+
+**
+
+**Additional Information:**
+**
+
+• **LaQshya:-**
+
+It​ is a scheme launched by the **Ministry of Health and Family Welfare** to improve the quality of care in **Labour room**and**Maternity Operation Theatres.**
+
+• **AB-PMJAY:-**
+
+It​stands for **Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana.**
+It is a scheme aimed at providing **health insurance** to the economically weaker sections of the society.
+
+• **PM-MI:-**
+
+Itstands for **Pradhan Mantri Matru Vandana Yojana.**
+It is a**maternity benefit programme** that provides financial assistance to **pregnant women and lactating mothers.**
+
+89:T",
+4,General Awareness,Which of the following festivals is associated with the term ‘ties of protection’?,Baisakhi,Karwa Chauth,Chhath Pooja,Raksha Bandhan,D,"The correct answer is **Raksha Bandhan.
+
+**Key Points:**
+**
+
+• **Raksha Bandhan:-**
+
+It​is the festival associated with the term**'ties of protection'.**
+It is celebrated on the**full moon day** of the Hindu month of **Shravana.**
+The festival celebrates the**bond between brothers and sisters.**
+On this day, sisters tie a sacred thread called **'Rakhi'**on their brother's wrist as a**symbol of love and protection.**
+Brothers, in turn, promise to**protect their sisters**and give them gifts.
+The festival is also celebrated between**cousins, friends**, and even between **soldiers and their commanders.
+
+**Additional Information:**
+**
+
+• **Baisakhi:-**
+
+It​ is a**harvest festival**celebrated in**Punjab**and marks the**Sikh New Year.**
+
+• **Karwa Chauth:-**
+
+It​ is a festival celebrated by **married women** in North India for the**long life of their husbands.**
+
+• **Chhath Pooja:-**
+
+It​is a festival celebrated in **Bihar and parts of Uttar Pradesh** to thank the Sun God for**sustaining life on earth.**
+
+92:T1147",
+5,General Awareness,"In October 2021, 19-year-old ________ won the silver medal at the World Wrestling
+Championship.",Anshu Malik,Seema Bisla,Sanju Devi,Sonam Malik,A,"The correct answer is **Anshu Malik.**
+
+**Key Points:**
+**
+
+• **Anshu Malik:-**
+
+​She won the silver medal in the**57 kg category**at the **World Wrestling Championship** held in **Oslo, Norway.**
+She is a **young Indian wrestler** from **Haryana** who has been making waves in the wrestling world with her impressive performances in various **national and international tournaments.**
+Her **silver medal win**at the World Wrestling Championship is a significant achievement for her and a proud moment for India, as she is one of the**promising young talents** in the country's wrestling scene.
+
+**
+
+**Additional Information:**
+**
+
+• **Seema Bisla**
+
+Seema Bisla is an Indian wrestler.
+She is a bronze medalist at the Asian Wrestling Championships and represented India at the 2020 Summer Olympics in Tokyo, Japan.
+She lost her opening bout against Sarra Hamdi of Tunisia.
+
+• **Sonam Malik:-**
+
+She is an Indian wrestler who represents Haryana.
+She is a two-time world junior champion and a three-time Asian medalist.
+She is the youngest Indian woman to qualify for the Olympics, doing so at the age of 18 in 2021.
+
+• **Sanju Devi:-**
+
+She is an Indian women's freestyle wrestler who competes in the 62 kg weight class.
+She is a two-time World Junior Silver Medalist (2021, 2022) and a Commonwealth Games Silver Medalist (2022).
+
+9a",
+6,General Awareness,"________ emerged as the poorest state as per the first-ever Multi-dimensional Poverty
+Index (MPI) prepared by Niti Aayog and launched in November 2021.",Bihar,Madhya Pradesh,Uttar Pradesh,Mizoram,A,"The correct answer is **Bihar.**
+
+**Key Points:**
+**
+
+• Multi-dimensional Poverty Index (MPI):-
+
+The MPI takes into account multiple factors such as **health, education, and standard of living** to measure poverty.
+The index is aimed at identifying the **poorest households and regions** in the country, and helping policymakers to design targeted interventions.
+Bihar emerged as the poorest state as per the first-ever Multi-dimensional Poverty Index (MPI) prepared by Niti Aayog and launched in November 2021.
+Bihar's poverty rate stands at**52.9%**, which is higher than the national average of **27.9%.
+
+**Additional Information:**
+**
+
+• **Madhya Pradesh** has a**poverty rate**of **41.5%** according to the MPI, while**Uttar Pradesh**has a poverty rate of **29.4%.**
+
+• **Mizoram** is**not** among the 22 states covered by the MPI.",
+7,General Awareness,The consumption of fixed capital is also known as _________.,depreciation,net investment,appreciation,gross investment,A,"The correct answer is **depreciation.**
+
+**Key Points:**
+**
+
+• **Depreciation:-**
+
+The **consumption of fixed capital** is also known as**""depreciation"":**
+Consumption of fixed capital refers to the**reduction in the value of a fixed asset** due to **wear and tear, obsolescence,** or other factors.
+**Depreciation** is the **accounting method**used to allocate the**cost of a fixed asset** over its useful life, reflecting the consumption of fixed capital over time.
+Depreciation can be calculated using different methods, such as straight-line depreciation, declining balance depreciation, or sum-of-the-years' digits depreciation.
+
+**
+
+**Additional Information:**
+**
+
+• Net investment:-
+
+It​ refers to the difference between gross investment and depreciation, representing the actual increase in the stock of fixed assets.
+
+• Appreciation:-
+
+It​ refers to the increase in the value of an asset over time, which is the opposite of depreciation.
+
+• Gross investment:-
+
+It​ refers to the total amount of investment in fixed assets, including both the increase in the stock of assets and the replacement of existing assets.
+
+9e:T14",
+8,General Awareness,"The Vedic Aryans lived in the area called Sapt-Sindhu, which means area drained by
+seven rivers. One of the rivers among the seven is Jhelum. What was its ancient
+name?",Askini,Parushni,Vipash,Vitasta,D,"The correct answer is **Vitasta.**
+
+**Key Points:**
+**
+
+• **Vitasta:-**
+
+Vitasta **or Jhelum River**is one of the five rivers that flow through the **Punjab region** and is the**westernmost of the five rivers.**
+It originates from the**Verinag spring**in the Himalayas and flows through the **Kashmir valley** before **entering Pakistan** and joining the**Chenab River.
+
+**Additional Information:**
+**
+
+• **Askini:-**
+
+It​ is the ancient name of the Chenab River.
+Chenab River is one of the five major rivers of the Punjab region, flowing through India and Pakistan.
+It is formed by the confluence of two headwaters, Chandra and Bhaga,
+
+• **Vipash:-**
+
+It is the ancient name of the Beas river.
+The Beas rises in the Himalayas in the Indian state of Himachal Pradesh and flows for some 470 kilometers (290 mi) to the Sutlej River in the Indian state of Punjab.
+
+• **Parushni:-**
+
+It is the ancient name of the Ravi river.
+The Ravi is one of the five rivers of the Punjab region, along with the Indus, Jhelum, Chenab, and Beas.
+It rises in the Himalayas in the Indian state of Himachal Pradesh and flows for some 720 kilometers (450 mi) to the Chenab River in Pakistan.
+
+a8",
+9,General Awareness,"In Chola administration, ________ was the assembly in the villages which were
+inhabited predominantly by the Brahmanas.",Ur,Khilya,Nagaram,Sabha,D,"The correct answer is **Sabha.**
+
+**Key Points:**
+**
+
+• **Sabha:-**
+
+It​ was the assembly in the **villages** which were inhabited predominantly by the **Brahmanas in the Chola administration.**
+It was a **local self-government institution**that functioned as a**council of elders**who were responsible for the administration and maintenance of the **village.**
+Sabha was also responsible for the**collection of taxes, maintenance of law and order, and resolving disputes** within the village.
+The members of the Sabha were usually**Brahmanas**who were**elected by the villagers.**
+Sabha was an important institution in the Chola administration as it helped in the**smooth functioning**of the**village administration.
+
+**Additional Information:**
+**
+
+• **Ur:-**
+
+Itwas the**smallest unit of administration** in the Chola empire.
+It was a village or a group of villages that were **governed by a council of elders.**
+
+• **Khilya:-**
+
+It​was a**military unit** in the Chola army that consisted of **100 soldiers.**
+
+• **Nagaram:-**
+
+It was a term used for a **city or a town**in the Chola empire.
+
+b2:T",
+10,General Awareness,Which of the following states is NOT a part of the Tapi Basin?,Rajasthan,Maharashtra,Madhya Pradesh,Gujarat,A,"The correct answer is **Rajasthan**.**
+
+**Key Points:**
+**
+
+• **Tapi Basin:-**
+
+It​ is a river basin located in**western India.**
+It includes parts of **Gujarat, Maharashtra, and Madhya Pradesh.Rajasthan** does not fall under the Tapi Basin as it is located to the**north of the basin**.
+The Tapi River is the **main river** in this basin, and it flows through **Surat**and empties into the **Arabian Sea.**
+The Tapi Basin is known for its**fertile agricultural lands** and is an important source of water for**irrigation.
+
+**Additional Information:**
+**
+
+• **Basins of Maharashtra:-**
+
+Godavari Basin**​**
+Tapi Basin
+Krishna Basin
+Penganga Basin
+Wardha Basin
+Wainganga Basin
+
+• Basins of **Madhya Pradesh:-​**Narmada Basin
+Chambal Basin
+Betwa Basin
+Ken Basin
+Son Basin
+
+• Basins of **Gujarat:-**
+
+Narmada Basin
+Mahi Basin
+Sabarmati Basin
+Luni Basin
+​It is also the state with the**largest share**of the Tapi Basin.
+
+bc:T14c4",
+11,General Awareness,"Which of the following is used as a cooling medium for the Large Hadron Collider
+(LHC) and the superconducting magnets in MRI scanners and NMR spectrometers?",Neon,Chlorine,Argon,Helium,D,"The correct answer is **Helium.**
+
+**Key Points:**
+**
+
+• **Helium:-**
+
+It​is used as a**cooling medium** for the**Large Hadron Collider** (LHC) and the **superconducting magnets in MRI scanners**and **NMR spectrometers** due to its ability to remain in a**liquid state a**t extremely low temperatures.
+Helium is a **noble gas and is non-reactive**, making it an ideal cooling medium for sensitive equipment.
+In the LHC, helium is used to **cool the superconducting magnets** to temperatures close to absolute zero (-273.15°C) in order to maintain their superconductivity.
+In MRI scanners and NMR spectrometers, helium is used to**cool the superconducting coils** which create the**strong magnetic fields** needed for imaging.
+
+**
+
+**Additional Information:**
+**
+
+• **Neon:-**
+
+It is a**noble gas** and is also **non-reactive like helium**, but it has a**lower boiling point** and is not as**efficient at cooling.**
+
+• **Chlorine:-**
+
+It is a **halogen** and is **highly reactive**, making it unsuitable for use as a **cooling medium.**
+
+• **Argon:-​**Itis a **noble gas** like helium and neon, but it has a**higher boiling point** than helium and is not as efficient at cooling.
+
+c5:T",
+12,General Awareness,"In 2018, Google Doodle celebrated the 100th birthday of Mrinalini Sarabhai. She is an
+exponent of which of the following dance forms?",Bharatanatyam and Kathakali,Odissi and Kathak,Kuchipudi and Bharatanatyam,Yakshagana,A,"The correct answer is **Bharatanatyam and Kathakali.**
+
+**Key Points:**
+**
+
+• **Mrinalini Sarabhai:-She was an Indian classical dancer, choreographer, and instructor.**
+She was the founder and director of the Darpana Academy of Performing Arts in Ahmedabad, Gujarat, India.
+She was awarded the Padma Bhushan in 1992 and the Padma Shri in 1965.
+She also received many other citations in recognition of her contribution to art.
+**Mrinalini Sarabhai** is an exponent of **Bharatanatyam and Kathakali**dance forms.
+
+• **Bharatanatyam:-**
+
+It is one of the **oldest classical dance forms** of India, originating in **Tamil Nadu**.
+It is known for its**intricate footwork, hand gestures, facial expressions, and body movements.**
+
+• **Kathakali:-**
+
+It​ is a traditional dance form of **Kerala**that combines **dance, music, and acting**.
+It is known for its elaborate **costumes, makeup, and facial expressions**.
+
+**
+
+**Additional Information:**
+**
+
+• **Odissi:-**
+
+It​ is a classical dance form of **Odisha**that emphasizes fluid body movements, graceful poses, and storytelling through dance.
+
+• **Kathak:-**
+
+It is a classical dance form of**North India** that emphasizes footwork, spins, and storytelling through dance.
+
+• **Kuchipudi:-**
+
+It​is a classical dance form of **Andhra Pradesh**that combines dance, music, and acting.
+It is known for its **graceful movements and storytelling** through dance.
+
+• **Yakshagana:-**
+
+It​ is a traditional dance form of**Karnataka** that combines dance, music, and acting.
+It is known for its **colorful costumes, makeup, and storytelling t**hrough dance.
+
+c7:T1818",
+13,General Awareness,"Bharatanatyam expresses South Indian religious themes and spiritual ideas of
+_______.",Sufism,Shaivism,Buddhism,Jainism,B,"The correct answer is **Shaivism.**
+
+**Key Points:**
+**
+
+• **Bharatanatyam:-**
+
+It is a**classical dance form** that originated in the**Indian state of Tamil Nadu** and is known for its**intricate footwork, hand gestures, and facial expressions.**
+The dance form expresses **South Indian religious themes** and spiritual ideas of **Shaivism**, one of the major branches of Hinduism that **worships Lord Shiva** as the supreme being.
+The dance form is performed in temples, festivals, and other auspicious occasions as a form of worship and is believed to bring blessings and divine grace to the performers and the audience.
+**Shaivism**emphasizes the**importance of yoga, meditation, and devotion to attain** liberation from the cycle of birth and death and achieve union with Shiva.
+
+**
+
+**Additional Information:**
+**
+
+• **Sufism:-**
+
+It​ is a mystical branch of Islam that emphasizes the**inner spiritual experience** of the**divine and the attainment of unity** with Allah through **love, devotion, and service.**
+
+• **Buddhism and Jainism:-**
+
+These​are **non-theistic religions** that emphasize the **path of self-realization**and liberation through **ethical conduct, meditation, and wisdom.**
+
+d1:T",
+14,General Awareness,"Who among the following musicians is popular for his mastery over the musical
+instrument Sitar?",Ali Akbar Khan,Vilayat Khan,Bahadur Khan,Amjad Ali Khan,B,"The correct answer is **Vilayat Khan.**
+
+**Key Points:**
+**
+
+• **Vilayat Khan:-​Vilayat Khan was an Indian sitar player who made a major contribution to Hindustani classical music.**
+He was one of the most distinguished sitar players of his time, and was known as ""Aftab-e-Sitar"" or ""The Sun of the Sitar"".
+
+• **Sitar:-**
+
+It is a stringed instrument of the lute family, popular in Hindustani classical music.
+It has a long neck and a wide, bowl-shaped resonator.
+There are typically 20 strings, of which seven are melody strings and the rest are drone strings.
+The melody strings are played with the fingers, while the drone strings provide a continuous background sound.
+
+**
+
+**Additional Information:**
+**
+
+• **Ali Akbar Khan:-**
+
+He​was a **Hindustani classical musician**who played the sarod.
+
+• **Bahadur Khan:-**
+
+He was a **sarod player and composer.**
+
+• **Amjad Ali Khan:-**
+
+He​is a**sarod player**who is also known for his collaborations with Western musicians.
+
+d9:T10",
+15,General Awareness,Which of the following countries was the host of AFC Women's Asia Cup Football–2022?,Japan,Bangladesh,India,China,C,"The correct answer is **India.**
+
+**Key Points:**
+**
+
+• **AFC Women's Asia Cup:-**
+
+It is a**quadrennial**football tournament** that is contested by the **national teams of Asia.**
+It is organized by the Asian Football Confederation (AFC).
+India is set to host the AFC Women's Asia Cup Football-2022.
+
+**
+
+**Additional Information:**
+**
+
+• Jordan was the **host of the previous edition**of the tournament in **2018**, where Japan emerged as the**champions** by defeating Australia in the final.
+
+• **Bangladesh** has not yet hosted the AFC Women's Asia Cup.
+
+However, the country has hosted other AFC tournaments in the past, such as the **AFC U-16 Women's Championship.**
+
+• **China** has hosted the**AFC Women's Asia Cup five times** in the past, which is the most by any country.
+
+• The last time China hosted the tournament was in**2014,**where they finished as the**runners-up after losing to Japan** in the final.",
+16,General Awareness,"Ms Bhakti Pradip Kulkarni was conferred with the Arjuna Award 2022 for her
+outstanding contribution in which of the following sports?",Table Tennis,Chess,Badminton,Wrestling,B,"The correct answer is **Chess**.**
+
+**Key Points:**
+**
+
+• **Bhakti Pradip Kulkarni:-**
+
+She​ is an**Indian chess player** who has won**several national and international tournaments.**
+She was awarded the**Arjuna Award in 2022,** which is one of the highest honors for sports in India.
+The award is given to athletes who have **consistently performed well**at the international level and brought laurels to the country.
+
+**
+
+**Additional Information:**
+**
+
+• **Table Tennis:**
+
+India has produced several world-class table tennis players, including **Sharath Kamal and Manika Batra.**
+However,**none** of them were conferred with the Arjuna Award in 2022.
+
+• **Badminton:**
+
+India has a strong tradition in badminton, with players like **Saina Nehwal and PV Sindhu**winning Olympic medals.
+However, they were **not**the recipients of the Arjuna Award in 2022.
+
+• **Wrestling:**
+
+India has a rich history in wrestling, with several wrestlers like **Sushil Kumar**winning Olympic medals.
+
+e3",
+17,General Awareness,Who among the following was the founder of ‘Tiger Legion’ or ‘Free India Legion’?,Vinayak Damodar Savarkar,Subhas Chandra Bose,Sohan Singh Bhakhna,Lala Hardayal,B,"The correct answer is **Subhas Chandra Bose.**
+
+**Key Points:**
+**
+
+• **‘Tiger Legion' or ‘Free India Legion':-**
+
+The founder of**'Tiger Legion' or 'Free India Legion'**was **Subhas Chandra Bose.**
+The legion was formed during**World War II**with the objective of **freeing India from British rule** with the help of**Axis powers.**
+The legion consisted of**Indian prisoners of war** captured by the**Japanese army in Southeast Asia**and **Indian civilians** in **exile in Germany.**
+The legion was also known as the**Indian Legion and Azad Hind Fauj.**
+
+• **Subhas Chandra Bose:-**
+
+He is also known as Netaji
+He was an Indian nationalist opposed to British rule in India.
+An advocate of armed resistance, he became a leading figure in the Indian independence movement in the 1930s and 1940s.
+
+**
+
+**Additional Information:**
+**
+
+• **Vinayak Damodar Savarkar:-**
+
+He​was a prominent Indian **independence activist and politician.**
+
+• **Sohan Singh Bhakhna:-**
+
+He​ was a **Sikh political and religious leader** who played a significant role in the**Ghadar Movement.**
+
+• **Lala Hardayal:-**
+
+He​was a revolutionary and **writer**who founded the**Ghadar Party.**
+
+ed:T13",
+18,General Awareness,"Name a reproductive strategy in which parasites take advantage of the care of other
+individuals of the same species or different species to raise their young.",Brood parasitism,Sexual parasitism,Klepto parasitism,Competitive parasitism,A,"The correct answer is **Brood parasitism.**
+
+**Key Points:**
+**
+
+• **Brood parasitism:-**
+
+It is a **reproductive strategy**in which a **parasite lays its eggs** in the nest of **another individual**of the same species or different species, and the **host raises the parasite's young.**
+This strategy is often used by**birds**, such as cuckoos, cowbirds, and honeyguides, but it can also be observed in**insects, fish, and mammals.**
+Brood parasites have evolved various adaptations to increase their chances of success, such as**mimicking the appearance and behavior** of the host's eggs or chicks, laying their eggs at the same time as the host, or removing the host's eggs.
+Brood parasitism can have both**costs and benefits** for the host, depending on the **degree of similarity** between the **parasite and the host**, the number of parasites in the host's nest, and the availability of alternative nesting sites.
+
+**
+
+**Additional Information:**
+**
+
+• **Sexual parasitism:-**
+
+It also known as**mate parasitism**, refers to a reproductive strategy in which a**male or female gains access** to a mate or a nest by **deceiving or coercing the other individual.**
+
+• **Klepto parasitism, or kleptoparasitism:-**
+
+It​refers to a feeding strategy in which a parasite steals food from another individual, often by chasing or harassing it.
+
+• **Competitive parasitism, or social parasitism:-**
+
+Itrefers to a reproductive strategy in which a parasite takes over the resources and/or reproduction of a host, often by manipulating its behavior or physiology.
+
+f7",
+19,General Awareness,"On the basis of tribal population (2011), identify the option that arranges the following
+states in ascending order.
+A. Madhya Pradesh
+B. Maharashtra
+C. Odisha","(A), (B), (C)","(B), (A), (C)","(C), (B), (A)","(B), (C), (A)",C,"**The Correct answer is: ""3) (C), (B), (A)""
+
+**Key Points:**
+**
+
+• **Tribal Population Analysis:**
+
+Based on the 2011 Census of India, understanding the tribal population distribution is crucial for socio-economic planning and resource allocation.
+The census data include comprehensive details about various demographic indicators, including the population of Scheduled Tribes (ST).
+
+• **Odisha (C):**
+
+Odisha has a significant tribal population, but it is lesser than that of Maharashtra and Madhya Pradesh.
+The major tribes in Odisha include the Kondh, Santal, and Munda among others.
+The total tribal population in Odisha as per the 2011 Census is approximately 9.59 million.
+
+• **Maharashtra (B):**
+
+Maharashtra has a higher tribal population compared to Odisha but less than Madhya Pradesh.
+The prominent tribes in Maharashtra include the Bhil, Gond, and Warli among others.
+The total tribal population in Maharashtra as per the 2011 Census is approximately 10.51 million.
+
+• **Madhya Pradesh (A):**
+
+Madhya Pradesh has the highest tribal population among the three states mentioned.
+Tribes such as the Gond, Bhil, Baiga, and Korku inhabit this state.
+The total tribal population in Madhya Pradesh as per the 2011 Census is approximately 15.31 million.
+
+**
+
+**Additional Information:**
+**
+
+• **Importance of Tribal Population Data:**
+
+Tribal population data helps in formulating policies for the upliftment and welfare of tribal communities.
+The data is also used in designing targeted developmental programs to improve infrastructure, education, and healthcare in tribal areas.
+
+• **Government Policies and Schemes:**
+
+Various schemes such as the Vanbandhu Kalyan Yojana and Integrated Tribal Development Program (ITDP) are aimed at the holistic development of tribal areas.
+Tribal sub-plan (TSP) funds are allocated for the development of tribal-dominated areas to ensure equitable growth.",
+20,General Awareness,"In which industrial policy was the investment limit for tiny industry/unit increased to
+₹2 lakh?",1977,1991,1980,1956,C,"The correct answer is **1980**.**
+
+**Key Points:**
+**
+
+• **1980 Industrial Policy:-**
+
+The**industrial policy** in which the investment limit for**tiny industry/unit** was**increased to ₹2 lakh** is the**1980 industrial policy.**
+This policy was introduced with the aim of promoting **small-scale industries**and providing them with**financial assistance.**
+The increase in**investment limit** allowed**more entrepreneurs** to enter the market and set up their own businesses.
+This policy also introduced measures such as**reservation of products, subsidies on raw materials**, and **priority lending to small-scale industries** to further support their growth.
+
+**
+
+**Additional Information:**
+**
+
+• **1977 industrial policy:-**
+
+It​focused on**reducing regional disparities**and promoting balanced regional development.
+
+• **1991 industrial policy:-**
+
+It​introduced **economic liberalization**and emphasized on privatization, deregulation, and globalization.
+
+• **1956 industrial policy:-**
+
+It was the first policy introduced after India's independence and focused on**industrialization through public sector enterprises.**
+
+102:T1",
+21,General Awareness,Which scientist thought of the concept of steady state of the universe?,Harold Jeffrey,Edwin Hubble,Fred Hoyle,Pierre-Simon Laplace,C,"The correct answer is **Fred Hoyle.**
+
+**Key Points:**
+**
+
+• **Fred Hoyle:-**
+
+He​is the **scientist**who thought of the concept of the **steady state of the universe.**
+Steady state theory suggests that the universe has **no beginning or end** and that new matter is continuously created to **maintain a constant density.**
+Hoyle proposed this theory as an **alternative to the Big Bang theory**, which suggests that the universe began with a massive explosion.
+Hoyle's theory was**widely debated and eventually fell out**of favor as evidence for the Big Bang theory mounted.
+
+**
+
+**Additional Information:**
+**
+
+• **Edwin Hubble:-**
+
+He is known for his work on the**expanding universe** and the**discovery of galaxies** beyond the Milky Way.
+
+• **Harold Jeffrey:-**
+
+He was an **American mathematician**who worked on the theory of **partial differential equations and geophysics.**
+
+• **Pierre-Simon Laplace:-**
+
+He was a **French mathematician** and**astronomer** who made significant contributions to celestial mechanics and statistics.
+
+10",
+22,General Awareness,"Match the columns.
+
+<table border=""1"">
+  <tr>
+    <th>Column-A (Class)</th>
+    <th>Column-B (Common name)</th>
+  </tr>
+  <tr>
+    <td>i. Chlorophyceae</td>
+    <td>a. Brown algae</td>
+  </tr>
+  <tr>
+    <td>ii. Phaeophyceae</td>
+    <td>b. Green algae</td>
+  </tr>
+  <tr>
+    <td>iii. Rhodophyceae</td>
+    <td>c. Blue-green algae</td>
+  </tr>
+  <tr>
+    <td>iv. Cyanophyceae</td>
+    <td>d. Red algae</td>
+  </tr>
+</table>","i-b, ii-c, iii-a, iv-d","i-b, ii-a, iii-d, iv-c","i-d, ii-c, iii-b, iv-a","i-a, ii-b, iii-c, iv-d",B,"The correct answer is **i - b, ii - a, iii - d, iv - c.**
+
+**Key Points:**
+**
+
+• **Chlorophyceae:-It is a class of green algae, distinguished mainly on the basis of ultrastructural morphology.**
+They are usually green due to the dominance of pigments chlorophyll a and chlorophyll b.
+The chloroplast may be discoid, plate-like, reticulate, cup-shaped, spiral- or ribbon-shaped in different species.
+Most of the members have one or more storage bodies called pyrenoids located in the chloroplast.
+Pyrenoids contain protein besides starch. Some green algae may store food in the form of oil droplets.
+
+• **Phaeophyceae:-It also known as brown algae, is a class of multicellular algae that are found primarily in marine environments.**
+They are distinguished by their brown color, which is due to the presence of the pigment fucoxanthin.
+Brown algae range in size from microscopic filaments to giant kelp forests that can reach over 60 meters in length.
+
+• **Cyanophyceae:-**
+
+It is known as Cyanobacteria, is a class of prokaryotic organisms that obtain energy via photosynthesis.
+**It is known as Blue-green algae.**
+They are considered to be the oldest form of life on Earth, with fossils dating back over 3.5 billion years.
+Cyanobacteria are found in a wide variety of habitats, including freshwater, marine, and terrestrial environments.
+
+• **Rhodophyceae:-It also known as red algae, is a class of eukaryotic algae that are found primarily in marine environments.**
+They are distinguished by their red color, which is due to the presence of the pigment phycoerythrin.
+Red algae range in size from microscopic filaments to large, complex seaweeds.",
+23,General Awareness,"Ryotwari system of revenue collection in India, introduced by the British, was based
+on the _______.",Smith’s theory of rent,Ricardian theory of rent,Malthusian theory of rent,Marx’s theory of rent,B,"The correct answer is **Ricardian theory of rent.**
+
+**Key Points:**
+**
+
+• **Ryotwari system:-**
+
+The Ryotwari system​ **of revenue collection** in India was introduced by the **British**during their colonial rule.
+This system was based on the**Ricardian theory of rent,**which states that rent is the**surplus income** earned by landowners due to the**differential fertility of land.**
+Under the Ryotwari system, individual farmers or ryots were directly responsible for **paying land revenue**to the government.
+This system was prevalent in areas where**landownership was fragmented** and there were no intermediaries between the government and the farmers.
+
+**
+
+**Additional Information:**
+**
+
+• **Smith's theory :-**
+
+It​is based on the idea that rent is **paid for the use of land**that has a**fixed supply and is immobile.**
+
+• **Malthusian theory :-**
+
+It suggests that as **population growth increases**, land becomes scarce and rents increase, leading to a **decline in living standards.**
+
+• **Marx's theory :-**
+
+It​is based on the idea that rent is a**form of exploitation of the labor of tenant farmers**by landowners who hold a monopoly on land.
+
+10f:T1",
+24,General Awareness,"Who received the Nobel Prize in 1901 for ‘recognition of the extraordinary services
+rendered by the discovery of the laws of chemical dynamics and osmotic pressure in
+solutions’?",Hermann Emil Fischer,Jacobus Henricus van 't Hoff,Svante August Arrhenius,Henri Moissan,B,"The correct answer is **Jacobus Henricus van 't Hoff.**
+
+**Key Points:**
+**
+
+• **Jacobus Henricus van 't Hoff:-**
+
+He was a Dutch chemist and the first winner of the Nobel Prize in Chemistry.
+He is considered one of the founders of stereochemistry and physical chemistry.
+He received the **Nobel Prize in 1901**for his contribution to the**laws of chemical dynamics** and**osmotic pressure** in solutions.
+His work laid the foundation for the**study of physical chemistry** and was instrumental in the development of the **field of thermodynamics.
+
+**Additional Information:**
+**
+
+• **Hermann Emil Fischer:-**
+
+Hewas a **German chemist** who won the **Nobel Prize in Chemistry in 1902** for his work on the**structure and synthesis of organic compounds.**
+
+• **Svante August Arrhenius:-**
+
+He was a **Swedish chemist** who won the **Nobel Prize in Chemistry in 1903** for his work on**electrolytic theory.**
+
+• **Henri Moissan:-**
+
+He​was a**French chemist**who won the**Nobel Prize in Chemistry in 1906** for his work on the**isolation of fluorine.**
+
+11",
+25,General Awareness,Which of the following Articles of the Indian Constitution are related to citizenship?,Articles 15 to 21,Articles 5 to 11,Articles 2 to 4,Articles 25 to 31,B,"The correct answer is **Articles 5 to 11.**
+
+**Key Points:**
+**
+
+• **Articles 5 to 11**of the Indian Constitution are related to **citizenship.**
+
+Article 5: Citizenship at the commencement of the Constitution At the commencement of this Constitution every person who has his domicile in the territory of India.
+Article 6: It provided rights of citizenship of certain persons who have migrated to India from Pakistan.
+Article 7: Provided Rights of citizenship of certain migrants to Pakistan.
+Article 8: Provided Rights of citizenship of certain persons of Indian origin residing outside India.
+Article 9: Provided that if any person voluntarily acquired the citizenship of a foreign State will no longer be a citizen of India.
+Article 10: It says that every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.
+Article 11: It empowers Parliament to make any provision with respect to the acquisition and termination of citizenship and all matters relating to it.
+
+**
+
+**Additional Information:**
+**
+
+• **Articles 15 to 21:-These articles** deal with fundamental rights related to**equality, prohibition of discrimination, and protection of life and personal liberty.**
+
+• **Articles 2 to 4:-**
+
+These articlesdeal with the**admission** and establishment of **new states in India.**
+
+• **Articles 25 to 31:-​**These articles deal with freedom of**religion and rights of minorities.**
+
+11",
+1,Quantitative Aptitude,"If A is 95% of B, then what per cent of A is B?",110 3/19%,104 7/19%,108 17/19%,105 5/19%,D,"**Given:**
+A = 95% of B = 0.95 B = (19/20) B
+
+**Formula Used:**
+Required Percentage = (B / A) × 100
+
+**Calculation:**
+Since A = (19/20) B
+⇒ B / A = 20 / 19
+⇒ Required Percentage = (20 / 19) × 100
+= 2000 / 19 %
+= 105 5/19%
+
+Hence, B is 105 5/19% of A.",
+2,Quantitative Aptitude,The marked price of mustard oil is 25% more than its cost price. At what percentage less than the marked price should it be sold to have no profit and no loss?,15%,20%,18%,22%,B,"**Given:**
+Let Cost Price (CP) = ₹100
+Marked Price (MP) = CP + 25% of CP = ₹125
+For no profit and no loss: Selling Price (SP) = CP = ₹100
+
+**Formula Used:**
+Discount = MP - SP
+Percentage discount below MP = (Discount / MP) × 100
+
+**Calculation:**
+Discount = 125 - 100 = ₹25
+⇒ Required Percentage = (25 / 125) × 100
+= (1 / 5) × 100 = 20%
+
+Hence, it should be sold at 20% less than the marked price.",
+3,Quantitative Aptitude,"A can complete a piece of work in 25 days while B can complete the same work in 30 days. They work on alternate basis, starting with A. Both A and B follow this pattern for 5 days and then A leaves the work. In how many days will B finish the remaining work?",24 2/5 days,5 2/5 days,5 3/5 days,24 3/5 days,A,"**Given:**
+Time taken by A alone = 25 days
+Time taken by B alone = 30 days
+Total work = LCM(25, 30) = 150 units
+Efficiency of A = 150 / 25 = 6 units/day
+Efficiency of B = 150 / 30 = 5 units/day
+
+**Concept Used:**
+A and B work on alternate days starting with A:
+Day 1 (A) = 6 units
+Day 2 (B) = 5 units
+Day 3 (A) = 6 units
+Day 4 (B) = 5 units
+Day 5 (A) = 6 units
+
+**Calculation:**
+Work completed in first 5 days = 6 + 5 + 6 + 5 + 6 = 28 units
+Remaining work = 150 - 28 = 122 units
+Now A leaves, so B completes the remaining work alone:
+⇒ Time taken by B = Remaining Work / Efficiency of B
+= 122 / 5 = 24 2/5 days
+
+Hence, B will finish the remaining work in 24 2/5 days.",
+4,Quantitative Aptitude,"As part of his journey, a person travels 120 km at 80 km/h, the next 100 km at 40 km/h, and then comes back to the starting point at 75 km/h. Find the average speed of the person throughout the whole journey.",63.46 km/h,58.74 km/h,68.15 km/h,49.58 km/h,A,"**Given:**
+Part 1: Distance d₁ = 120 km at Speed s₁ = 80 km/h
+Part 2: Distance d₂ = 100 km at Speed s₂ = 40 km/h
+Return journey: Distance d₃ = 120 + 100 = 220 km at Speed s₃ = 75 km/h
+
+**Formula Used:**
+Average Speed = Total Distance / Total Time
+Time = Distance / Speed
+
+**Calculation:**
+Total Distance = 120 + 100 + 220 = 440 km
+Time t₁ = 120 / 80 = 1.5 hours
+Time t₂ = 100 / 40 = 2.5 hours
+Time t₃ = 220 / 75 = 44 / 15 hours
+Total Time = 1.5 + 2.5 + (44 / 15) = 4 + (44 / 15) = 104 / 15 hours
+⇒ Average Speed = 440 / (104 / 15)
+= (440 × 15) / 104
+= 6600 / 104 ≈ 63.46 km/h
+
+Hence, the average speed of the person is 63.46 km/h.",
+5,Quantitative Aptitude,8 men can complete a work in 45 days. 8 women can complete the same work in 18 days. In how many days will 5 men and 8 women complete the same work?,13 1/5 days,12 4/5 days,14 2/5 days,15 3/5 days,C,"**Given:**
+8 men can do the work in 45 days
+8 women can do the work in 18 days
+
+**Formula Used:**
+Total Work = Men × Days = Women × Days
+Efficiency Ratio (M : W)
+
+**Calculation:**
+Total work = 8 × M × 45 = 8 × W × 18
+⇒ 45 M = 18 W
+⇒ M / W = 18 / 45 = 2 / 5
+So, Efficiency of 1 man = 2 units/day, Efficiency of 1 woman = 5 units/day.
+Total Work = 8 × 2 × 45 = 720 units
+Efficiency of (5 men + 8 women) = (5 × 2) + (8 × 5) = 10 + 40 = 50 units/day
+⇒ Required Time = Total Work / Combined Efficiency
+= 720 / 50 = 72 / 5 = 14 2/5 days
+
+Hence, 5 men and 8 women will complete the work in 14 2/5 days.",
+6,Quantitative Aptitude,6²⁵ + 6²⁶ + 6²⁷ + 6²⁸ is divisible by:,253,254,255,259,D,"**Given:**
+Expression: 6²⁵ + 6²⁶ + 6²⁷ + 6²⁸
+
+**Concept Used:**
+Factoring out the lowest power term 6²⁵.
+
+**Calculation:**
+6²⁵ + 6²⁶ + 6²⁷ + 6²⁸ = 6²⁵ × (1 + 6¹ + 6² + 6³)
+= 6²⁵ × (1 + 6 + 36 + 216)
+= 6²⁵ × 259
+⇒ Since 259 is a factor of the expression, it is completely divisible by 259.
+
+Hence, the expression is divisible by 259.",
+7,Quantitative Aptitude,"Study the given table and answer the question that follows.
+
+The table shows the classification of 100 students based on the marks obtained by them in History and Geography in an examination (Marks out of 50).
+
+<table border=""1"">
+  <tr>
+    <th>Subject</th>
+    <th>40 and above</th>
+    <th>30 and above</th>
+    <th>20 and above</th>
+    <th>10 and above</th>
+    <th>0 and above</th>
+  </tr>
+  <tr>
+    <td>History</td>
+    <td>9</td>
+    <td>32</td>
+    <td>80</td>
+    <td>92</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Geography</td>
+    <td>4</td>
+    <td>21</td>
+    <td>66</td>
+    <td>81</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Average (Aggregate)</td>
+    <td>7</td>
+    <td>27</td>
+    <td>73</td>
+    <td>87</td>
+    <td>100</td>
+  </tr>
+</table>
+
+Based on the table, what is the number of students scoring less than 20% marks in aggregate?",13,11,10,12,A,"**Given:**
+Maximum Marks = 50
+20% of 50 = 50 × (20 / 100) = 10 marks
+From the Aggregate (Average) row of the table:
+• Students scoring 10 and above = 87
+• Total students (scoring 0 and above) = 100
+
+**Formula Used:**
+Students scoring less than 20% (< 10 marks) = Total Students - Students scoring ≥ 10 marks
+
+**Calculation:**
+⇒ Required number of students = 100 - 87 = 13
+
+Hence, the number of students scoring less than 20% marks in aggregate is 13.",
+8,Quantitative Aptitude,Two concentric circles are of radii 10 cm and 6 cm. Find the length of the chord of the larger circle which touches the smaller circle.,8 cm,16 cm,12 cm,9 cm,B,"**Given:**
+Radius of larger circle (R) = 10 cm
+Radius of smaller circle (r) = 6 cm
+The chord of the larger circle touches the smaller circle (tangent).
+
+**Concept Used:**
+The radius drawn to the point of contact is perpendicular to the tangent chord and bisects it.
+In the right-angled triangle formed by R, r, and half the chord length (x):
+x = √(R² - r²)
+Length of chord = 2x
+
+**Calculation:**
+x = √(10² - 6²) = √(100 - 36) = √64 = 8 cm
+⇒ Length of chord = 2 × 8 = 16 cm
+
+Hence, the length of the chord of the larger circle is 16 cm.",
+9,Quantitative Aptitude,"If sin(a + b) = 1 and cos(a - b) = 1/2, then find a.",75°,30°,15°,45°,A,"**Given:**
+sin(a + b) = 1
+cos(a - b) = 1/2
+
+**Formula Used:**
+sin 90° = 1
+cos 60° = 1/2
+
+**Calculation:**
+a + b = 90°  --- (Equation 1)
+a - b = 60°  --- (Equation 2)
+
+Adding Equation 1 and Equation 2:
+(a + b) + (a - b) = 90° + 60°
+⇒ 2a = 150°
+⇒ a = 150° / 2 = 75°
+
+Hence, the value of a is 75°.",
+10,Quantitative Aptitude,A train 900 m long is running at 108 km/h. How long will it take to clear a 900 m long platform completely?,60 s,45 s,30 s,18 s,A,"**Given:**
+Length of train (L₁) = 900 m
+Length of platform (L₂) = 900 m
+Speed of train = 108 km/h
+
+**Formula Used:**
+Speed in m/s = Speed in km/h × (5 / 18)
+Total Distance = Length of train + Length of platform
+Time = Total Distance / Speed
+
+**Calculation:**
+Speed in m/s = 108 × (5 / 18) = 6 × 5 = 30 m/s
+Total Distance = 900 + 900 = 1800 m
+⇒ Time = 1800 / 30 = 60 seconds
+
+Hence, the required time is 60 seconds.",
+11,Quantitative Aptitude,"If 7b - 1/(4b) = 7, then what is the value of 16b² + 1/(49b²)?",80/49,104/7,120/7,7/2,C,"**Given:**
+7b - 1/(4b) = 7
+
+**Formula Used:**
+Multiply by (4/7) to form (4b - 1/(7b)):
+(x - y)² = x² + y² - 2xy  ⇒  x² + y² = (x - y)² + 2xy
+
+**Calculation:**
+Multiply the given equation by (4 / 7):
+(4 / 7) × [7b - 1/(4b)] = (4 / 7) × 7
+⇒ 4b - 1/(7b) = 4
+
+Squaring both sides:
+[4b - 1/(7b)]² = 4²
+⇒ 16b² + 1/(49b²) - 2 × 4b × (1 / (7b)) = 16
+⇒ 16b² + 1/(49b²) - 8 / 7 = 16
+⇒ 16b² + 1/(49b²) = 16 + 8/7 = 16 + 1 1/7 = 17 1/7
+
+Hence, the value of 16b² + 1/(49b²) is 17 1/7.",
+12,Quantitative Aptitude,"If m∠C = m∠Z and AC = XZ, then which of the following conditions is necessary for ΔABC ≅ ΔXYZ?",AB=AC,BC=YZ,AB=XY,BC=AB,B,"**Given:**
+In ΔABC and ΔXYZ:
+• m∠C = m∠Z
+• AC = XZ
+
+**Concept Used (SAS Congruence Criterion):**
+Two triangles are congruent by SAS (Side-Angle-Side) if two sides and the included angle of one triangle are equal to the corresponding two sides and included angle of the other triangle.
+• In ΔABC, ∠C is included between sides AC and BC.
+• In ΔXYZ, ∠Z is included between sides XZ and YZ.
+
+**Calculation:**
+Since AC = XZ and ∠C = ∠Z are already given:
+The required side to complete SAS congruence is BC = YZ.
+⇒ ΔABC ≅ ΔXYZ by SAS rule.
+
+Hence, the necessary condition is BC = YZ.",
+13,Quantitative Aptitude,"In the given figure, PAB is a secant and PT is a tangent to the circle from P. If PT = 8 cm, PA = 6 cm and AB = x cm, then the value of x is:",14/9 cm,1/3 cm,14/3 cm,4/3 cm,C,"**Given:**
+PT is tangent from P to the circle = 8 cm
+PAB is secant where PA = 6 cm and AB = x cm
+Total secant length PB = PA + AB = (6 + x) cm
+
+**Formula Used (Tangent-Secant Theorem):**
+PT² = PA × PB
+
+**Calculation:**
+8² = 6 × (6 + x)
+⇒ 64 = 36 + 6x
+⇒ 6x = 64 - 36
+⇒ 6x = 28
+⇒ x = 28 / 6 = 14 / 3 = 4 2/3 cm
+
+Hence, the value of x is 4 2/3 cm.",images/q63_diagram.png
+14,Quantitative Aptitude,"A shopkeeper offers the following two discount schemes:
+
+A) Buy 3 get 4 free
+B) Buy 5 get 6 free
+
+Which scheme has the maximum discount percentage?",A,A does not give any discount,A and B both have the same discount percentage,B,A,"**Given:**
+Scheme A: Buy 3, get 4 free
+Scheme B: Buy 5, get 6 free
+
+**Formula Used:**
+Discount % = [Free Items / Total Items] × 100
+
+**Calculation:**
+• For Scheme A:
+  Free items = 4, Total items = 3 + 4 = 7
+  ⇒ Discount % (A) = (4 / 7) × 100 ≈ 57.14%
+
+• For Scheme B:
+  Free items = 6, Total items = 5 + 6 = 11
+  ⇒ Discount % (B) = (6 / 11) × 100 ≈ 54.54%
+
+Comparing: 57.14% > 54.54%
+⇒ Scheme A offers the maximum discount percentage.
+
+Hence, Scheme A has the maximum discount percentage.",
+15,Quantitative Aptitude,"The following bar chart represents the gross amount (in Rs. crores) and total cost (Rs. crores) of a firm. In order to make a profit of 25%, what should the gross amount have been (in Rs. crores) in 2019-2020, if the total cost remained the same?",7800,8000,8250,8125,D,"**Given:**
+From the bar chart for 2019-2020:
+• Total Cost = ₹6500 lakhs
+Desired profit = 25%
+
+**Formula Used:**
+Gross Amount = Total Cost × (1 + Profit% / 100)
+
+**Calculation:**
+Gross Amount = 6500 × (1 + 25 / 100)
+= 6500 × (5 / 4)
+= 8125 lakhs
+
+Hence, the required gross amount is 8125.",images/q65_chart.png
+16,Quantitative Aptitude,"In what time will ₹10,000 at 4% per annum, produce the same interest as ₹8,000 in 4 years at 5% simple interest?",5 years,3 years,4 years,6 years,C,"**Given:**
+Case 1: Principal P₁ = ₹10,000, Rate R₁ = 4% per annum, Time = T₁
+Case 2: Principal P₂ = ₹8,000, Rate R₂ = 5% per annum, Time T₂ = 4 years
+Simple Interest (SI₁) = Simple Interest (SI₂)
+
+**Formula Used:**
+SI = (P × R × T) / 100
+
+**Calculation:**
+SI₂ = (8000 × 5 × 4) / 100 = ₹1600
+Since SI₁ = SI₂:
+(10000 × 4 × T₁) / 100 = 1600
+⇒ 400 × T₁ = 1600
+⇒ T₁ = 1600 / 400 = 4 years
+
+Hence, the required time is 4 years.",
+17,Quantitative Aptitude,"A man, a boy and a woman can finish a work in 10 days, 15 days and 30 days respectively. In how many days can the work be finished by 1 man, 1 boy and 1 woman together?",10,5,8,6,B,"**Given:**
+Time taken by 1 man (M) = 10 days
+Time taken by 1 boy (B) = 15 days
+Time taken by 1 woman (W) = 30 days
+Total work = LCM(10, 15, 30) = 30 units
+
+**Formula Used:**
+Efficiency = Total Work / Time
+Combined Time = Total Work / Total Efficiency
+
+**Calculation:**
+Efficiency of 1 man = 30 / 10 = 3 units/day
+Efficiency of 1 boy = 30 / 15 = 2 units/day
+Efficiency of 1 woman = 30 / 30 = 1 unit/day
+Combined efficiency of (1 man + 1 boy + 1 woman) = 3 + 2 + 1 = 6 units/day
+⇒ Required Time = 30 / 6 = 5 days
+
+Hence, together they will finish the work in 5 days.",
+18,Quantitative Aptitude,"If cos θ = √3/2, then tan² θ cos² θ = ?",1/√3,1/4,1/2,√3,B,"**Given:**
+cos θ = √3 / 2
+
+**Formula Used:**
+When cos θ = √3 / 2, θ = 30°
+tan² θ cos² θ = (sin² θ / cos² θ) × cos² θ = sin² θ
+
+**Calculation:**
+Since θ = 30°:
+sin 30° = 1 / 2
+⇒ tan² θ cos² θ = sin² 30° = (1 / 2)² = 1 / 4
+
+Hence, the required value is 1/4.",
+19,Quantitative Aptitude,"What is the value of (3x³ + 5x²y + 12xy² + 7y³), when x = -4 and y = -1?",– 329,– 359,– 361,– 327,D,"**Given:**
+Expression: 3x³ + 5x²y + 12xy² + 7y³
+x = -4, y = -1
+
+**Calculation:**
+Substitute x = -4 and y = -1 into the expression:
+• 3x³ = 3 × (-4)³ = 3 × (-64) = -192
+• 5x²y = 5 × (-4)² × (-1) = 5 × 16 × (-1) = -80
+• 12xy² = 12 × (-4) × (-1)² = 12 × (-4) × 1 = -48
+• 7y³ = 7 × (-1)³ = 7 × (-1) = -7
+
+Summing all terms:
+⇒ Value = -192 - 80 - 48 - 7
+= -327
+
+Hence, the value of the expression is – 327.",
+20,Quantitative Aptitude,"If the four numbers, 39, 117, 17 and y are in proportion, then find the value of y.",49,51,57,85,B,"**Given:**
+Four numbers 39, 117, 17 and y are in proportion:
+39 : 117 :: 17 : y
+
+**Formula Used:**
+Product of extremes = Product of means
+39 × y = 117 × 17
+
+**Calculation:**
+y = (117 × 17) / 39
+Since 117 / 39 = 3:
+⇒ y = 3 × 17 = 51
+
+Hence, the value of y is 51.",
+21,Quantitative Aptitude,The volume of a sphere of radius 4.2 cm is: (Use π = 22/7),278.234 cm3,312.725 cm3,297.824 cm3,310.464 cm3,D,"**Given:**
+Radius of sphere (r) = 4.2 cm
+π = 22 / 7
+
+**Formula Used:**
+Volume of sphere = (4 / 3) π r³
+
+**Calculation:**
+Volume = (4 / 3) × (22 / 7) × (4.2)³
+= (4 / 3) × (22 / 7) × 4.2 × 4.2 × 4.2
+= 4 × 22 × 0.2 × 17.64
+= 17.6 × 17.64
+= 310.464 cm³
+
+Hence, the volume of the sphere is 310.464 cm³.",
+22,Quantitative Aptitude,"If (a + b + c) = 16, and (a² + b² + c²) = 90, find the value of (ab + bc + ca).",84,83,82,81,B,"**Given:**
+(a + b + c) = 16
+(a² + b² + c²) = 90
+
+**Formula Used:**
+(a + b + c)² = a² + b² + c² + 2(ab + bc + ca)
+
+**Calculation:**
+16² = 90 + 2(ab + bc + ca)
+⇒ 256 = 90 + 2(ab + bc + ca)
+⇒ 2(ab + bc + ca) = 256 - 90
+⇒ 2(ab + bc + ca) = 166
+⇒ ab + bc + ca = 166 / 2 = 83
+
+Hence, the value of (ab + bc + ca) is 83.",
+23,Quantitative Aptitude,"If {(3 sin θ - cos θ) / (cos θ + sin θ)} = 1, then the value of cot θ is:",3,0,1,2,C,"**Given:**
+{(3 sin θ - cos θ) / (cos θ + sin θ)} = 1
+
+**Formula Used:**
+cot θ = cos θ / sin θ
+
+**Calculation:**
+Cross-multiplying:
+3 sin θ - cos θ = cos θ + sin θ
+⇒ 3 sin θ - sin θ = cos θ + cos θ
+⇒ 2 sin θ = 2 cos θ
+⇒ sin θ = cos θ
+Dividing both sides by sin θ:
+⇒ cot θ = cos θ / sin θ = 1
+
+Hence, the value of cot θ is 1.",
+24,Quantitative Aptitude,"Two runners, Sony and Mony, start running on a circular track of length 200 m at speeds of 18 and 24 km/h, respectively, in the same direction. After how much time from the start will they meet again at the starting point?",120 sec,110 sec,100 sec,90 sec,A,"**Given:**
+Length of circular track = 200 m
+Speed of Sony = 18 km/h = 18 × (5 / 18) = 5 m/s
+Speed of Mony = 24 km/h = 24 × (5 / 18) = 20 / 3 m/s
+
+**Formula Used:**
+Time taken to complete one round = Track Length / Speed
+Meeting time at starting point = LCM(Time of Sony, Time of Mony)
+
+**Calculation:**
+Time taken by Sony for 1 round = 200 / 5 = 40 seconds
+Time taken by Mony for 1 round = 200 / (20 / 3) = (200 × 3) / 20 = 30 seconds
+⇒ Meeting time at the starting point = LCM(40, 30) = 120 seconds
+
+Hence, they will meet again at the starting point after 120 seconds.",
+25,Quantitative Aptitude,What will be the remainder when (265)<sup>4081</sup> + 9 is divided by 266?,8,6,1,9,A,"**Given:**
+Expression: [(265)⁴⁰⁸¹ + 9] ÷ 266
+
+**Formula Used / Concept Used:**
+Using Modular Arithmetic (Remainder Theorem):
+265 = (266 - 1) ≡ -1 (mod 266)
+(-1)ⁿ = -1 when n is odd.
+
+**Calculation:**
+Since the power 4081 is an odd number:
+(265)⁴⁰⁸¹ ≡ (-1)⁴⁰⁸¹ (mod 266)
+⇒ (265)⁴⁰⁸¹ ≡ -1 (mod 266)
+
+Now adding 9:
+[(265)⁴⁰⁸¹ + 9] ≡ -1 + 9 = 8 (mod 266)
+⇒ Remainder = 8
+
+Hence, the remainder is 8.",
+1,English Comprehension,"The following sentence has been split into four segments. Identify the segment that
+contains an error.
+Neetu have been / waiting for me / since 10 o’clock / in the morning.",Neetu have been,in the morning,since 10 o’clock,waiting for me,A,"The correct answer is ""**Neetu have been.**""
+
+**
+
+**Key Points:**
+**
+
+• In the given sentence, the error lies in the first part.
+
+• **The subject ""Neetu"" is singular, but the verb ""have been"" is plural.**
+
+• **This creates a subject-verb agreement error.**
+
+• The correct verb form for ""Neetu"" would be ""has been.""
+
+• The sentence should read: ""Neetu has been waiting for me since 10 o'clock in the morning.""
+
+Hence, **the correct answer is option 1**.",
+2,English Comprehension,"Select the most appropriate ANTONYM of the underlined word.
+
+Her dog can climb <u>under</u> the fence.",Over,Sink,Behind,Beneath,A,"The correct answer is ""**Over.**""
+
+**
+
+**Key Points:**
+**
+
+• Let us understand the meaning of the given and the marked words:
+
+**""Under"" means below the surface of something; covered by something**.
+
+Example: Most of an iceberg is under the water.
+
+**""Over"" means above or higher than something.**
+
+Example: He threw a ball over the fence.
+
+• In the given sentence, the dog is climbing under the fence, so the opposite would be climbing over the fence.
+
+Hence, **the correct answer is option 1**.
+**
+
+**Additional Information:**
+**
+
+• In option 2, Sink: This word means to go down or submerge, which is not the opposite of climbing under something.
+
+• In option 3, Behind: This word means at the back of something, which is not the opposite of going under something.
+
+• In option 4, Beneath: This word is a synonym of 'under', so it cannot be the antonym.",
+3,English Comprehension,"Select the INCORRECTLY spelt word in the given sentence.
+
+The village beggars, no longer ill at ease in the gathering of gliterring dignitaries, sat
+in their assigned rows and joked with vegetarian Brahmin apprentices.",assigned,apprentices,beggars,gliterring,D,"The correct answer is ""**gliterring**.""
+**
+
+**Key Points:**
+**
+
+• In the given sentence, the word ""gliterring"" is incorrectly spelled.
+
+• **The correct spelling is ""glittering"" with two ""t's"" i.e. ""glittering.""**
+
+• **The word means shining or sparkling brightly.**
+
+• It is an adjective used to describe something that reflects light.
+
+Example: Her dark eyes glittered more than usual.
+
+Hence, **the correct answer is option 4**.**
+
+**Additional Information:**
+**
+
+• In option 1 (assigned) is spelled correctly and means designated or given a particular job or task.
+
+• In option 2 (apprentices) is spelled correctly and refers to a person who is learning a trade or skill from a skilled employer.
+
+• In option 3 (beggars) is spelled correctly and refers to a person who asks for money or food in a public place.",
+4,English Comprehension,"Select the option that expresses the given sentence in passive voice.
+
+The company's board of directors will announce the financial results at the annual
+meeting tomorrow.",The financial results will have been announced by the company's board of directors at the annual meeting tomorrow.,The financial results are being announced by the company's board of directors at the annual meeting tomorrow.,The company's board of directors announced the financial results at the annual meeting tomorrow.,The financial results will be announced by the company's board of directors at the annual meeting tomorrow.,D,"The correct answer is ""**The financial results will be announced by the company's board of directors at the annual meeting tomorrow.**""**
+
+**Key Points:**
+**
+
+• Active voice denotes that the subject is performing the action while passive voice denotes that the subject is acted upon by the verb or action in the sentence.
+
+• The given sentence is in active voice, with the subject (""The company's board of directors"") performing the action (""will announce the financial results"").
+
+• **To convert it into passive voice, we need to make the object (""the financial results"") the subject of the sentence and add a form of the verb ""to be"" + past participle of the main verb (""announced"").**
+
+• **The preposition ""at the annual meeting tomorrow"" remains at the end of the sentence.**
+
+• The final sentence in passive voice will be:  ""The financial results will be announced by the company's board of directors at the annual meeting tomorrow.""
+
+Hence, **the correct answer is option 4**.",
+5,English Comprehension,Select the grammatically correct sentence.,The participants of the competition are waiting for their turn curiously.,The participants of the competition has been waiting for their turn curiously.,A participants of the competition is waiting for their turn curiously.,The participants of the competition is waiting for their turn curiously.,A,"The correct answer is ""**The participants of the competition are waiting for their turn curiously.**""
+**
+
+**Key Points:**
+**
+
+• **The subject ""participants"" is plural, so the verb should also be plural.Thus, we will eliminate the options 2, 3 and 4.**
+
+• Also, ""curiously"" is an adverb describing how the participants are waiting.
+
+• Thus, it can be concluded that the sentence in option 1 is grammatically correct.
+
+• The sentence in option 1 has correct subject-verb agreement and proper use of adverb.
+
+Hence, **the correct answer is option 1**.
+**
+
+**Additional Information:**
+**
+
+• Option 2 is incorrect because ""participants"" is plural and ""has been waiting"" is singular.
+
+• Option 3 is incorrect because ""a participants"" is grammatically incorrect. It should be ""a participant"" or ""participants"".
+
+• Option 4 is incorrect because ""participants"" is plural and ""is waiting"" is singular.",
+6,English Comprehension,"Select the most appropriate ANTONYM of the underlined word in the given sentence.
+
+Henry is so <u>servile</u> that other people take advantage of him.",Arrogant,Sheepish,Bickering,Cunning,A,"The correct answer is ""**Arrogant.**""
+
+**
+
+**Key Points:**
+**
+
+• Let us understand the meaning of the given and the marked words:
+
+""**Servile**"" means excessively willing to please or obey others.
+
+Example: He bowed his head in a servile manner.
+
+""**Arrogant**"" means having an exaggerated sense of one's own importance or abilities.
+
+Example: He is a very arrogant and rude person.
+
+• Thus, it is clear that ""arrogant"" is the opposite of ""servile.""
+
+Hence, **the correct answer is option 1**.**
+
+**Additional Information:**
+**
+
+• In option 2, **Sheepish** means showing embarrassment or shame.
+
+• In option 3, **Bickering** means engaging in petty, often prolonged, arguments or quarrels.
+
+• In option 4, **Cunning** means having or showing skill in achieving one's ends by deceit or evasion.
+
+**Hinglish**
+
+• **""Servile""**का मतलब होता है दूसरों की खुशी या आज्ञा का अत्यन्त पालन करने के लिए तत्पर होना।
+
+• **""Arrogant""** का अर्थ होता है अपनी महत्वभूता या योग्यताओं का अत्यधिक आकलन करने वाला।
+
+• **""Sheepish""**का अर्थ है शर्म या संकोच दिखाना। (""Sheepish"" means showing embarrassment or shame.)
+
+• **""Bickering""** इस शब्द का अर्थ है छोटी-छोटी बातों पर झगड़ना या विवाद करना। (""Bickering"" means arguing or quarreling about petty matters.)
+
+• **""Cunning""**का मतलब होता है कपट या धोखे से अपने उद्देश्य को प्राप्त करने में कुशलता दिखाना। (""Cunning"" means having or showing skill in achieving one's ends by deceit or evasion.)
+
+1a3:Tac2,The correct answer is ""**Edible.**""
+
+**
+
+**Key Points:**
+**",
+7,English Comprehension,"Select the option that can be used as a one-word substitute for the given group of words.
+
+A thing fit to eat.",Eligible,Digestible,Curable,Edible,D,"The correct answer is ""**Edible.**""
+
+**
+
+**Key Points:**
+**
+
+• Let us understand the meanings of the given options:
+
+Eligible means having the right to do or receive something. (कुछ करने या प्राप्त करने का अधिकार होना।)
+
+​Example: You are eligible for the job.
+
+Digestible means capable of being digested or broken down by the body. (शरीर द्वारा पचाने या तोड़ने में सक्षम)​
+
+​Example: The food over there was not digestible.
+
+​Curable means able to be cured or treated successfully. (ठीक किया जा सके या सफलतापूर्वक इलाज किया जा सके)
+
+​Example: Many types of cancer are curable.
+
+**Edible means fit to be eaten or suitable for consumption**. (खाने योग्य या उपभोग के योग्य)
+
+Example: The berries on this tree are edible, but the leaves are poisonous.
+
+• Thus, it can be concluded that the word ""edible"" can substitute the given phrase.
+
+Hence,**the correct answer is option 4**.
+1a4:T5bc,The correct answer is ""**Not brave**"".",
+8,English Comprehension,"Select the most appropriate meaning of the given idiom.
+
+Lily-livered",Brave,Comical,Not brave,Naughty,C,"The correct answer is ""**Not brave**"".
+**
+
+**Key Points:**
+**
+
+• An idiom is a widely used saying or expression containing a figurative meaning that differs from the phrase's literal meaning.
+
+Example: ""Its raining like cats and dogs"" means it is raining very heavily.
+
+• **""Lily-livered"" is an idiom that means lacking courage or cowardly.**
+
+• The phrase is often used in a derogatory or mocking way to describe someone who is afraid or hesitant to take risks.
+
+Example: ""He's too lily-livered to confront his boss about the unfair treatment.""
+
+• It can be concluded that option 3 describes the correct meaning of the given idiom.
+
+Hence, **the correct answer is option 3**.",
+9,English Comprehension,"Select the most appropriate synonym of the given word.
+
+Zealous",Enthusiastic,Detached,Apathetic,Indifferent,A,"The correct answer is ""**enthusiastic.**""
+
+**
+
+**Key Points:**
+**
+
+• Let us understand the meaning of the given and the marked words:
+
+**Zealous** means having great energy or enthusiasm in pursuit of a cause or an objective. (किसी कारण या उद्देश्य की प्राप्ति के लिए अत्यधिक ऊर्जा या उत्साह होना)
+
+Example: She was zealous about her job and worked tirelessly to achieve her goals.
+
+**Enthusiastic**means having or showing intense and eager enjoyment, interest, or approval. (तीव्र और उत्सुक आनंद, रुचि होना या दिखाना)
+
+Example: He is very enthusiastic about his work.
+
+• Synonyms of Zealous include enthusiastic, passionate, fervent, ardent, and eager.
+
+• **Thus, it can be concluded that the word ""enthusiastic"" is a synonym of the word ""zealous.""**
+
+Hence, **the correct answer is option 1**.
+
+**
+
+**Additional Information:**
+**
+
+• Option 2: **Detached** means aloof and objective, not influenced by personal feelings or interests. (अलग और उद्देश्यपूर्ण, व्यक्तिगत भावनाओं या रुचियों से प्रभावित नहीं)
+
+• Option 3: **Apathetic** means showing or feeling no interest, enthusiasm, or concern. (कोई रुचि, उत्साह या चिंता न दिखाना या महसूस करना)
+
+• Option 4: **Indifferent** means having no particular interest or sympathy, unconcerned. (कोई विशेष रुचि या सहानुभूति न रखते हुए, बेपरवाह)
+
+1a6:T8ac,The correct answer is ""**impress**"".",
+10,English Comprehension,"Select the most appropriate option that can substitute the underlined word in the given sentence.
+
+She had an ability to <u>persuade</u> others.",halt,suppress,outrage,impress,D,"The correct answer is ""**impress**"".
+
+**
+
+**Key Points:**
+**
+
+• Let us understand the meaning of the given and the marked words:
+
+**""Persuade"" means to convince someone to do or believe something**.
+
+Example: It was difficult to persuade her.
+
+**""Impress"" means to make someone feel admiration or respect**.
+
+Example: She is always trying to impress people.
+
+• Thus, it is correct that the word ""impress"" can substitute the word ""persuade.""
+
+Hence, **the correct answer is option 4.
+
+**Additional Information:**
+**
+
+• Option 1, ""**halt**"", means to stop or pause something.
+
+• Option 2, ""**suppress**"", means to prevent something from being expressed or revealed.
+
+• Option 3, ""**outrage**"", means to provoke anger or shock in someone.",
+11,English Comprehension,"Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+We must remember that what we teach our children is what we <u>inculcate</u> in them.",endanger,inspire,instil,import,C,"The correct answer is ""**instil**"".
+
+**
+
+**Key Points:**
+**
+
+• ​​Let us understand the meaning of the given and the marked words:
+
+• The verb **""inculcate""**used in the sentence **means to impress something upon the mind of another through repetition or persistent urging**.
+
+​Example: He tried to inculcate self respect into his pupils.
+
+• **""Instil"" means to gradually but firmly establish (an idea or attitude) in a person's mind.**
+
+Example: He wished to instil a sense of right and wrong into his children.
+
+• Both ""inculcate"" and ""instil"" are commonly used when talking about teaching values or beliefs to children.
+
+• Thus, it is clear that the word ""instil"" can replace the word ""inculcate"" in the given sentence.
+
+Hence, **the correct answer is option 3**.
+**
+
+**Additional Information:**
+**
+
+• In option 1,**""endanger""**, means to put someone or something at risk of harm or danger. It does not fit the context of the sentence.
+
+• In option 2, **""inspire""**, means to fill someone with the urge or ability to do or feel something. While it is a positive verb, it does not accurately convey the meaning of the original sentence.
+
+• In option 4,**""import""**, means to bring in goods or services from abroad. It is not relevant to the context of the sentence.
+
+**Hinglish**
+
+• Endanger (खतरे में डालना): It means putting someone or something at risk or in a potentially harmful situation.
+
+English example: Pollution can endanger the lives of animals.
+Hindi example: प्रदूषण जानवरों के जीवन को खतरे में डाल सकता है।
+
+• Inspire (प्रेरित करना): It means providing motivation or encouragement to someone.
+
+English example: Her courage inspired many people.
+Hindi example: उसकी हिम्मत ने कई लोगों को प्रेरित किया।
+
+• Instil (बोयना या डालना): It means to gradually impart knowledge or principles to someone.
+
+English example: They aim to instil a love of learning in their students.
+Hindi example: वे अपने छात्रों में सीखने की प्रेम को बोना चाहते हैं।
+
+• Import (आयात करना): It means to bring in (goods or services) from a foreign country for sale.
+
+English example: Many countries import a significant amount of their food.
+Hindi example: कई देश अपने खाद्य पदार्थों का एक महत्वपूर्ण हिस्सा आयात करते हैं।
+
+1a8:T676,The correct answer is ""**Any better choice won't be received by him than this from anywhere.**""",
+12,English Comprehension,"Select the option that expresses the given sentence in passive voice.
+
+He won’t receive any better choice than this from anywhere.",Any better choice won’t be received by him than this from anywhere.,Any better choice wouldn’t have received by him than this from anywhere.,Any better choice shouldn’t be received by him than this from anywhere.,Any better choice won't have been be received by him than this from anywhere.,A,"The correct answer is ""**Any better choice won't be received by him than this from anywhere.**""
+
+**
+
+**Key Points:**
+**
+
+• The sentence is in active voice with the subject ""he"" performing the action.
+
+• **To convert it into passive voice, we need to make the object of the sentence (any better choice) the subject and use the appropriate form of the verb ""to be"" and the past participle of the main verb (in this case, ""received"").**
+
+• The passive voice sentence follows the structure ""Subject (object in active voice) + appropriate form of 'to be' + past participle of main verb + other optional phrases"".
+
+• From the above explanation, it is clear that the given sentence in passive form would be:
+
+Any better choice won't be received by him than this from anywhere.
+
+Hence, **the correct answer is option 1**.",
+13,English Comprehension,"Select the most appropriate synonym of the given word.
+
+Feeble",Unheedful,Strong,Weak,Baneful,C,"The correct answer is ""**Weak.**""
+
+**
+
+**Key Points:**
+**
+
+• Let us understand the meaning of the given and the marked words:
+
+""**Feeble**"" **means lacking physical strength or frail.**
+
+Example: She is very old and feeble now.
+
+• Synonyms of feeble are weak, frail, delicate, and powerless.
+
+""**Weak**""**means having little energy or strength; not strong.**
+
+Example: The child was very weak.
+
+• Thus, it is clear that the word ""weak"" is the synonym of the word ""feeble.""
+
+Hence, **the correct answer is option 3**.
+**
+
+**Additional Information:**
+**
+
+• **Unheedful** means not paying attention or careless.
+
+• **Strong** means having great physical power or mental abilities.
+
+• **Baneful** means harmful or destructive.",
+14,English Comprehension,"Select the correct spelling of the underline word.
+
+They denied having any <u>associasion</u> with the terrorists.",asociation,asocciation,assosiation,association,D,"The correct answer is ""**association.**""
+**
+
+**Key Points:**
+**
+
+• The correct spelling of the word is ""association.""
+
+• **The word is a noun that refers to a group of people or an organization that has a common purpose or interest**.
+
+​Example: He ceased to be a member of the association.
+
+• Thus, it is clear that the words mentioned in options 1, 2 and 3 are incorrect.
+
+Hence, **the correct answer is option 4**.
+1a",
+15,English Comprehension,"Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+Pooja tried to explain the problem, but soon she <u>tied herself up in knots</u>.",Be forced to explain your actions and (probably) punished,Become very confused when you are trying to explain something,Make no progress in an argument or discussion,Won't modify an opinion or agree to even small changes that another person wants,B,"The correct answer is ""**Become very confused when you are trying to explain something.""
+
+**Key Points:**
+**
+
+• **The idiom ""tied herself up in knots"" means to become very confused or tangled up when trying to explain something.**
+
+• It is a metaphorical expression, comparing the confusion to knots.
+
+• **The sentence suggests that Pooja was unable to articulate the problem clearly.**
+
+• The idiom is often used in situations where a person is struggling to express themselves or make sense of something.
+
+Example: The minister tied himself in knots answering a touchy political question.
+
+• Among the given options, the statement in option 2 explains the given idiom appropriately.
+
+Hence, **the correct answer is option 2**.
+**
+
+**Additional Information:**
+**
+
+• Option 1: ""Be forced to explain your actions and (probably) punished"" does not fit the context of the sentence, as there is no mention of punishment or wrongdoing.
+
+• Option 3: ""Make no progress in an argument or discussion"" is not an accurate meaning of the idiom in this context, as there is no mention of an argument or discussion.
+
+• Option 4: ""Won't modify an opinion or agree to even small changes that another person wants"" is not related to the idiom in any way.",
+16,English Comprehension,"Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+A. In Bihar and Central India, in particular, every district had smelters that used local deposits of ore to produce iron which was widely used for the manufacture of implements and tools of daily use.
+
+B. The smelting was done by men while women worked on the bellows, pumping air that kept the charcoal burning.
+
+C. But iron smelting in India was extremely common till the end of the nineteenth century.
+
+D. Production of Wootz steel required a highly specialised technique of refining iron.",ACDB,DCAB,BCDA,CBDA,B,"The correct answer is ""**DCAB.**""
+**
+
+**Key Points:**
+**
+
+• **Among the given sentences, Sentence D mentions the subject of the passage.**
+
+• **Thus, we will place sentence D at the beginning of the passage.**
+
+• Sentence D talks about the production of Wootz steel which required a highly specialized technique of refining iron. This implies that iron smelting was not a simple process.
+
+• Further, sentence C states that iron smelting was extremely common in India till the end of the nineteenth century. This indicates that iron smelting was prevalent in India for a long time.
+
+• Sentence A mentions that every district in Bihar and Central India had smelters that used local deposits of ore to produce iron. This implies that iron smelting was a widespread activity in India.
+
+• Sentence B talks about the division of labor in iron smelting. Men did the smelting while women worked on the bellows. This gives us an idea of how iron smelting was carried out in India.
+
+• **Thus, the sentences chronologically explain the prevalence, spread and process of iron smelting in India.**
+
+• **Thus, it can be concluded that the correct order for the given sentence would be ""DCAB.""**
+
+Hence, **the correct answer is option 2**.",
+17,English Comprehension,"Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+A. He repeated the experiment, increasing the amount until he had weighed up to a thousand pounds.
+
+B. During the spring of 1717, the iron foundries in a remote district were often visited by a thin, middle-aged man with a notebook.
+
+C. Three cauldrons were next prepared under his directions.
+
+D. He would weigh out two pounds of iron, have them heated till they were red-hot and then weigh them again.",BDAC,ABDC,BCAD,CABD,A,"The correct answer is ""**BDAC**.""
+
+**
+
+**Key Points:**
+**
+
+• **The paragraph is about a middle-aged man visiting iron foundries and conducting an experiment.​Thus, we will place sentence B at the beginning of the passage.**
+
+• Further, sentence D explains what the man used to do in the iron foundaries.
+
+• Sentence A further explains how he repeated the experiment with increasing amounts of iron until he reached a thousand pounds.
+
+• Sentence C finally explains how three cauldrons were prepared under his directions.
+
+• Thus, it can be concluded that the correct order for the given sentences should be ""**BDAC.**""
+
+Hence, **the correct answer is option 1**.
+1a",
+18,English Comprehension,"Select the most appropriate option to fill in the blank.
+
+She is _________ a peacock in the blue satin saree.",very beautiful as,so beautiful as,as beautiful as,beautiful like,C,"The correct answer is ""**as beautiful as**"".
+
+**
+
+**Key Points:**
+**
+
+• **The correct grammar structure to use in this sentence is ""as + adjective + as"".**
+
+• This structure is used to compare two things that have the same level of the quality described by the adjective.
+
+Example: The dog is as big as a monkey.
+
+• **In this case, we are comparing the woman's beauty to that of a peacock.**
+
+• The sentence could be rephrased as ""She is as beautiful as a peacock in the blue satin saree.""
+
+Hence, **the correct answer is option 3**.",
+19,English Comprehension,"Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+A. The top band is made of saffron, which symbolises power and courage.
+
+B. The constituent assembly adopted our national flag, Tiranga, which means tricolour, on 22 July 1947.
+
+C. As a symbol of nationalism and freedom, it is fashioned from khadi, which is domestically spun Indian cotton.
+
+D. It features three horizontal stripes that are all the same width.",CBAD,CBDA,BCDA,BDCA,C,"The correct answer is ""**BCDA.**""
+
+**
+
+**Key Points:**
+**
+
+• The paragraph is about India's national flag, Tiranga.
+
+Sentence B provides the context of when the flag was adopted.
+Sentence C explains the significance of the materials used to make the flag.
+Sentence A describes the colors and their symbolism.
+Sentence D provides a physical description of the flag's design.
+
+• **Thus, the correct order of the given sentence would therefore be ""BCDA.**""
+
+Hence, **the correct answer is option 3**.",
+20,English Comprehension,"Select the most appropriate homonym to fill in the blank.
+
+The hunter dogs followed the hyena’s ________.",sense,scent,cense,cents,B,"The correct answer is ""**scent.**""
+**
+
+**Key Points:**
+**
+
+• Homonym is a word that is spelt and pronounced like another word but that has a different meaning.
+
+Example: ‘Bank’ [river bank] and ‘bank’ [place where money is kept] are homonyms.
+
+• Now, let us understand the meaning of the given options:
+
+""Sense"" means common sense or good judgment.
+**""Scent"" means an odor or trail, whereas ""sense"" means a feeling or perception.**
+""Cense"" means to burn incense, which is not relevant to the context of the sentence.
+""Cents"" refers to a unit of currency, which does not make sense in the context of the sentence.
+
+• In the given sentence, the word ""scent"" will fit the best.
+
+• The correct sentence will be: The hunter dogs followed the hyena’s **scent**.
+
+Hence, **the correct answer is option 2**.
+**Hinglish**
+
+• **""Sense""** का मतलब होता है सामान्य बुद्धि या अच्छी निर्णय क्षमता। इसका मतलब है कि किसी व्यक्ति की क्षमता की सही और गलत में अंतर करने के लिए।
+
+• **""Scent""**का मतलब होता है एक सुगंध या ट्रेल (मार्ग), जबकि ""sense"" का मतलब होता है एक भावना या अनुभूति।
+
+• **""Cense""**का मतलब होता है अगरबत्ती (इन्सेंस) जलाकर सुगंधित करना, यह संदर्भ में उचित नहीं है।
+
+• **""Cents""**मुद्रा इकाई की संदर्भ देते हैं, जो संदर्भ में उचित नहीं है।
+
+1b1:Tc65,The correct answer is **""considered.""
+
+**Key Points:**
+**
+
+• **&**",
+21,English Comprehension,Select the most appropriate option to fill in blank no. 1.,considering,to consider,considered,consider,C,"The correct answer is **""considered.""
+
+**Key Points:**
+**
+
+• **""Considered""**is the past participle form of the verb **""consider,""**which is the most appropriate tense to use in this context.
+
+• The sentence is discussing a past action, so the past participle form is necessary.
+
+• Using **""considering"" (present participle)**or **""to consider"" (infinitive)**would not be grammatically correct in this sentence.
+
+• **""Consider""**on its own is not a past tense or participle form, and therefore does not fit the context of the sentence.
+
+• The phrase ""Human life is considered a unique blessing""**uses ""considered"" to indicate an opinion or perspective on human life.**
+
+• This choice smoothly**connects the subject ""Human life"" with the predicate ""a unique blessing,"" forming a complete, grammatically correct sentence** that conveys a general view.
+
+**
+
+**Additional Information:**
+**
+
+• **""Considering""**is a present participle form of the verb **""consider.""**It would be appropriate to use in a sentence discussing a current action or ongoing process.
+
+• **""To consider""**is an infinitive form of the verb **""consider.""**It would be appropriate to use in a sentence discussing a future action or intention.
+
+• **""Consider""**on its own is the base form of the verb and does not fit the past tense context of the sentence.",
+22,English Comprehension,Select the most appropriate option to fill in blank no. 2.,witness,known,awareness,aware,C,"The correct answer is **""awareness"".
+
+**Key Points:**
+**
+
+• **""Awareness""**is the most appropriate option to fill in the blank.
+
+• It is a noun that means knowledge or perception of a situation or fact.
+
+• The sentence suggests that the person needs to have awareness of something.
+
+• The grammatical structure of the sentence requires a noun to complete it.
+
+**
+
+**Additional Information:**
+**
+
+• **""witness"",**is a noun that means a person who sees an event happen.
+
+• **""known"",**is an adjective that means recognized or familiar.
+
+• **""aware"",**is an adjective that means having knowledge or perception of a situation or fact.",
+23,English Comprehension,Select the most appropriate option to fill in blank no. 3.,Since,From,As per,For,A,"The correct answer is **""Since"".
+
+**Key Points:**
+**
+
+• **""Since""**is used to indicate a starting point in time or a cause-effect relationship.
+
+• It is followed by a clause or a noun phrase.
+
+Example: Since it's raining outside, we should stay indoors.
+
+Therefore, the correct answer is **""Option 1"".
+
+**Additional Information:**
+**
+
+• **""From""**is used to indicate a starting point in space or time.
+
+• **""As per""**is used to indicate something according to a source or authority.
+
+• **""For""**is used to indicate a purpose or duration of time.",
+24,English Comprehension,Select the most appropriate option to fill in blank no. 4.,As a result,As a reaction,Causing,As a reason,A,"The correct answer is **""As a result.""
+
+**Key Points:**
+**
+
+• **""As a result""**is the most appropriate option to fill in blank no. 4 as it indicates a consequence or outcome of the previous statement.
+
+• Grammatically, **""as a result""**is a conjunction that connects two clauses, with the first clause stating the cause and the second clause stating the effect.
+
+Example: ""I forgot my keys at home, as a result, I had to call my roommate to let me in.""
+
+Therefore, the correct answer is **""Option 1"".
+
+**Additional Information:**
+**
+
+• **""As a reaction,""**implies a response to the previous statement rather than a consequence.
+
+• **""Causing,""**is incorrect as it suggests that the previous statement is the cause rather than the effect.
+
+• **""As a reason,""**is not as appropriate as Option 1 as it indicates a justification for the previous statement rather than a consequence.",
+25,English Comprehension,Select the most appropriate option to fill in blank no. 5.,break into,breaks to,break from,breaks into,D,"The correct answer is **""breaks into"".
+
+**Key Points:**
+**
+
+• **""Breaks into""**means to forcefully enter or gain access to something.
+
+• This phrasal verb is commonly used to describe burglary or theft.
+
+• The verb **""break""**is followed by the preposition **""into""**to indicate the location or object that is being accessed.
+
+**Example:**The thief broke into the house and stole valuable items.
+
+Therefore, the correct answer is **""Option 4"".
+
+**Additional Information:**
+**
+
+• **""breaks to"",**is grammatically incorrect.
+
+• **""break from"",**means to separate or disconnect from something.",
